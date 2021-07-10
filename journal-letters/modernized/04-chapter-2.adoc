@@ -42,12 +42,16 @@ It is this inward operating principle that has so far preserved me through life;
 and it is to this blessed spirit of Christ alone that I trust for
 direction and preservation during the remainder of my pilgrimage.
 
+[.offset]
 +++[+++A blank in the Manuscript follows the foregoing,
 which gives the impression that he did not finish what he intended.
 The following extract from a letter to a friend, written many years afterwards,
 will in some measure supply this defect.]
 
-"`I have often recurred, with a degree of satisfaction, to my early impressions,
+[.embedded-content-document.letter]
+--
+
+I have often recurred, with a degree of satisfaction, to my early impressions,
 as well as to the instructions which were given me by my parents.
 They early made me acquainted with the doctrines of Christianity,
 so far as the reading of the Scriptures of truth would give me that knowledge;
@@ -79,7 +83,9 @@ but I embraced and received, and fully believed in the doctrines of Christianity
 as professed by it; and I have ever since loved the Society and its testimonies,
 wherever they have been planted; not only in my native land of America,
 but also in this nation, +++[+++England,]
-where this the Lord`'s right hand planting was, as regards our Society, first begun.`"
+where this the Lord`'s right hand planting was, as regards our Society, first begun.
+
+--
 
 7th mo., 18th. First day.
 Had no opening at meeting this day for communication to others,
@@ -524,7 +530,10 @@ this was a very crowded meeting, and was attended by three of the clergy.
 
 From this letter, the following extract is taken:--
 
-"`We expect to attend a meeting at Falmouth tomorrow,
+[.embedded-content-document.letter]
+--
+
+We expect to attend a meeting at Falmouth tomorrow,
 appointed for the solemnization of two marriages, and then the Quarterly Meeting.
 
 Things are much out of order in the Society within the compass of this Quarter,
@@ -534,7 +543,9 @@ it has been very much my lot for most of the time since I have been out; yet, at
 and more especially when at meeting,
 I feel bound to acknowledge that the helper of Israel has been near;
 and although discouragements sometimes intervene,
-I am not without an assurance that we are in our places.`"
+I am not without an assurance that we are in our places.
+
+--
 
 30th. Went to Falmouth, and attended the meeting appointed for two marriages, in silence.^
 footnote:[In regard to this meeting, his companion related the following incident:
@@ -794,7 +805,10 @@ aged forty-three years, a man of more than ordinary natural capacity;
 but his life such as seemed to afford an illustration
 of this sentiment of the poet Young:
 
+[verse]
+____
 With the talents of an angel, a man may be a fool.
+____
 
 He allowed himself to be so far captivated with a thirst for ardent spirits,
 that he became a slave to the excessive use of them;
@@ -1000,7 +1014,10 @@ and attended Friends`' meeting at Chatham.
 
 The following is extracted from a letter which he wrote from New Lebanon to his wife:--
 
-"`We arrived here on seventh day afternoon, and yesterday went,
+[.embedded-content-document.letter]
+--
+
+We arrived here on seventh day afternoon, and yesterday went,
 in company with our brother and sister, (H. Mory and wife,) to Chatham,
 and attended meeting there, returning in the afternoon.
 My health has improved on travelling;
@@ -1019,7 +1036,9 @@ If this is our experience, we have the promise that hard things shall be made ea
 and bitter things sweet;
 so that our present temporary separation will be the more easily endured;
 and I much desire that it may be made easy to you and the dear children,
-by the rich descendings of the dew of Hermon.`"
+by the rich descendings of the dew of Hermon.
+
+--
 
 Third day, 19th. Went to Duanesburg, and stopped two nights at Isaac Gages,
 the weather being very stormy.
@@ -1204,6 +1223,7 @@ We arrived at home the 14th of 11th month; finding my family in usual health,
 for which I was truly thankful, and have to acknowledge, with deep gratitude,
 the kindness of Providence in preserving us, and in restoring us safely to our friends.
 
+[.offset]
 +++[+++This record, commenced in 1824, here concludes,
 and does not appear to have been afterwards resumed;
 probably owing to a prospect of further and more weighty service,
