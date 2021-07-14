@@ -1,6 +1,7 @@
 [short="Chapter VI"]
 == Chapter VI. Correspondence From 1841 to 1851 Inclusive.
 
+[.offset]
 +++[+++In the early part of this painful controversy,
 many Friends in different parts of the Society who took
 decided ground against the innovations of Gurney and others,
@@ -20,10 +21,13 @@ and that they might not make shipwreck of the faith.
 A few of the letters he wrote on these occasions are given in this volume,
 one of which here follows.]
 
+[.letter-heading]
 From J. W. to Eli And Sybil Jones.
 
+[.signed-section-context-open]
 Hopkinton, 2nd mo., 11th, 1841.
 
+[.salutation]
 My Dear Friends Eli and Sybil Jones,
 
 I have not heard from you since you left Fall River,
@@ -198,12 +202,16 @@ and if you have any remarks to make upon it, let them come as freely.
 In the full feeling of gospel love to you both I must now say farewell,
 and am your friend,
 
+[.signed-section-signature]
 John Wilbur.
 
+[.letter-heading]
 From Margaret Crosfield to J. W.
 
+[.signed-section-context-open]
 Liverpool, 5th mo., 1st, 1841.
 
+[.salutation]
 My Dear Friend John Wilbur,
 
 Though it is long since I penned anything direct to thee, yet not through forgetfulness,
@@ -287,14 +295,19 @@ in principle and practice to our old standards as displayed by Fox,
 Penn, and Barclay.
 With these, as way opens, we shall confer.
 
+[.signed-section-closing]
 Thy affectionate friend,
 
+[.signed-section-signature]
 Margaret Crosfield.
 
+[.letter-heading]
 From Thomas B. Gould to J. W.
 
+[.signed-section-context-open]
 Newport, 1st of 6th mo., 1841.
 
+[.salutation]
 My Dear Friend,
 
 Although I have taken no notice hitherto, on this sheet,
@@ -343,13 +356,17 @@ the Lord will doubtless be honored by it, and his glorious cause advanced;
 generations unborn will hear of these things, and speak of them,
 and rank them among his wonderful works.
 
+[.signed-section-closing]
 I remain thy friend,
 
+[.signed-section-signature]
 Thos.
 B+++.+++ Gould.
 
+[.letter-heading]
 From L. A. Barclay to J. W.
 
+[.signed-section-context-open]
 Reigate, Surrey, 6th mo., 21st, 1841.
 
 Ah! my dear friend, it is so cheering and strengthening to hear from thee;
@@ -403,12 +420,16 @@ Amen.`"
 
 I remain thy nearly united and affectionate friend,
 
+[.signed-section-signature]
 Lydia A. Barclay.
 
+[.letter-heading]
 From J. W. to Thomas B. Gould.
 
+[.signed-section-context-open]
 Hopkinton, 7th mo., 16th, 1841.
 
+[.salutation]
 My Dear Thomas,
 
 Thy very acceptable letter came to hand in due course;
@@ -452,12 +473,16 @@ but great caution will be necessary.
 
 I that which I trust changeth not.
 
+sscñ
 I am thy friend,
 
+[.signed-section-signature]
 John Wilbur.
 
+[.letter-heading]
 From J. W. to Thomas B. Gould.
 
+[.signed-section-context-open]
 Hopkinton.
 12th mo., 14th, 1841.
 
@@ -512,14 +537,19 @@ to attend several funerals with those unconnected with Friends;
 a service in which life and power, tongue and utterance, were mercifully vouchsafed.
 May the Lord only have the praise!
 
+[.signed-section-closing]
 In dear love to you all, etc.,
 
+[.signed-section-signature]
 John Wilbur.
 
+[.letter-heading]
 From John Wilbur to Mary Davis.
 
+[.signed-section-context-open]
 Hopkinton, 8th mo., 13th, 1841.
 
+[.salutation]
 My Dear Friend, Mary Davis,
 
 It is now more than six weeks since I received the injury,
@@ -630,12 +660,16 @@ and to all our dear faithful Friends in your quarter.
 
 Farewell.
 
+[.signed-section-signature]
 John Wilbur.
 
+[.letter-heading]
 From Ann Jones to J. W.
 
+ssco
 Stockport, 11th mo., 16th, 1841.
 
+[.salutation]
 My Dear And Much Esteemed Friend, John Wilbur,
 
 I have long wished for a little feeling of ability to give
@@ -759,12 +793,16 @@ under circumstances of trial and discouragement, dictates.
 In love to thyself and the whole family, with all our friends there, I conclude,
 and remain thy friend,
 
+[.signed-section-signature]
 John Wilbur.
 
+[.letter-heading]
 From J. W. to Seth And Mary Davis.
 
+[.signed-section-context-open]
 Fall River, 15th of 3rd mo., 1842.
 
+[.salutation]
 My Dear Friends,
 
 I have often thought of you since your Quarterly Meeting in the 12th month,
@@ -901,12 +939,16 @@ I fear he is not so wholly come round to ancient views as could be wished.
 
 I remain thy truly sympathizing and nearly united friend,
 
+[.signed-section-signature]
 Lydia A. Barclay.
 
+[.letter-heading]
 From Ann Coning to J. W.
 
+[.signed-section-context-open]
 Gisborongh, 17th of 8th mo., 1842.
 
+[.salutation]
 My Dear Friend,
 
 It is a favor in the midst of all trials when we can look upon Zion,
@@ -971,12 +1013,16 @@ She was often wounded in the day of battle, yet she turned not her back,
 In the renewed feeling of that love which reaches over sea and land,
 do I salute thee and bid thee farewell in the Lord.
 
+[.signed-section-signature]
 Ann Coning.
 
+[.letter-heading]
 From Ann Jones to J. W.
 
+[.signed-section-context-open]
 Stockport, 10th mo., 25th, 1842.
 
+[.salutation]
 My Dear Afflicted Friend,
 
 Thou hast been very much the companion of my mind,
@@ -1108,12 +1154,16 @@ and suffering from the same spirit; on an expression of sympathy from a friend, 
 I am and I trust sincerely in the bonds and afflictions
 of the gospel of Christ thy tribulated friend and sister,
 
+[.signed-section-signature]
 Ann Jones.
 
+[.letter-heading]
 From George Crosfield to J. W.
 
+[.signed-section-context-open]
 Liverpool, 10 mo., 31st, 1842.
 
+[.salutation]
 My Dear Friend,
 
 Thy deeply interesting letter of 8th mo., 23rd,
@@ -1300,14 +1350,19 @@ in which my cup has overflowed with peace and love, and praises have ascended un
 who lives forever and ever; notwithstanding, at other times,
 I apprehend that I feel as Jeremiah did, when he wrote his Lamentations.
 
+[.signed-section-closing]
 Thine, affectionately,
 
+[.signed-section-signature]
 John Wilbur.
 
+[.letter-heading]
 From Ezra Comfort to J. W.
 
+[.signed-section-context-open]
 Whitemarsh, 2nd mo., 17th, 1848.
 
+[.salutation]
 Dearly Beloved Friend,
 
 I trust I can thus address thee in the fellowship of that gospel
@@ -1422,14 +1477,19 @@ and in proportion as they are permitted to be afflicted,
 will they be favored to joy and rejoice in the God of their salvation;
 blessed be his holy name forevermore!
 
+[.letter-heading]
 From thy friend and fellow-sufferer for the Truth`'s sake,
 
+[.signed-section-signature]
 Ezra Comfort.
 
+[.letter-heading]
 From L. A. Barclay to J. W.
 
+[.signed-section-context-open]
 Reigate, Surrey, England, 25th of 2nd mo., 1843.
 
+[.salutation]
 My Dear And Tribulated Friend,
 
 What can I say that will comfort thee,
@@ -1486,12 +1546,16 @@ And what though we be reduced to a "`very small remnant,`"
 yet if thoroughly purged and entirely knit together in Him,
 the Life, we may yet be strong as an army with the banners of Truth!
 
+[.signed-section-closing]
 Thy affectionate friend,
 
+[.letter-heading]
 Lydia A. Barclay.
 
+[.letter-heading]
 From Ann Jones to J. W.
 
+[.signed-section-context-open]
 Stockport, 1st of 4th month, 1843.
 
 My Dear Friend and Brother in the Bonds and Tribulations
@@ -1558,12 +1622,16 @@ for his name and Truth and testimony`'s sake.
 In much love and tender sympathy for thee and thy wife and children,
 I am thy friend in the bonds of the gospel,
 
+[.signed-section-signature]
 Ann Jones.
 
+[.letter-heading]
 From Thomas B. Gould to J. W.
 
+[.signed-section-context-open]
 Newport, 4th mo, 16th, 1843.
 
+[.salutation]
 My Very Dear Friend,
 
 Alexander Parker, an ancient worthy, in writing to Margaret Fell, thus addresses her:
@@ -1634,12 +1702,16 @@ of which I believe she has been at times in some measure sensible;
 and to whom I am under very many and great obligations, which I cannot forget.
 Farewell.
 
+[.signed-section-signature]
 T+++.+++ B. Gould.
 
+[.letter-heading]
 From J. W. to Thomas B. Gould.
 
+[.signed-section-context-open]
 Hopkinton, 4th mo., 26th, 1843.
 
+[.salutation]
 My Dear Thomas,
 
 Thine of the 16th was received on the 19th,
@@ -1686,12 +1758,16 @@ Be assured that I remain thy truly sympathizing friend in all the trials which
 await the exercise of the Lord`'s gift among a stiff-necked and rebellious people.
 Farewell.
 
+[.signed-section-signature]
 John Wilbur.
 
+[.letter-heading]
 From Ezra Comfort to J. W.
 
+[.signed-section-context-open]
 Whitemarsh, 7th mo., 23rd, 1848.
 
+[.salutation]
 Dear Friend,
 
 My mind is much with thee and thy dear suffering friends in New England,
@@ -1822,12 +1898,16 @@ by the course they are pursuing.
 Farewell, my dear friend in the Lord.
 I remain thine.
 
+[.signed-section-signature]
 Ezra Comfort.
 
+[.letter-heading]
 From Alice Knight to J. W.
 
+[.signed-section-context-open]
 Frankfort, 12th mo., 7th, 1843.
 
+[.salutation]
 My Dear Friend,
 
 Thy truly welcome letter of 11th mo., 29th, came to hand soon after date.
@@ -1908,12 +1988,16 @@ to stand fast in the liberty wherewith Christ hath made you free.
 I conclude, thy near sympathizer and, I trust, fellow-sufferer in tribulation,
 for the body`'s sake, which is the church,
 
+[.signed-section-signature]
 Alice Knight.
 
+[.letter-heading]
 From Cordelia Bayes to J. W.
 
+[.signed-section-context-open]
 Tottenham, 11th mo., 17th, 1843.
 
+[.salutation]
 My Beloved Friend,
 
 Although I have not felt ability hitherto, nor at this time,
@@ -1954,12 +2038,16 @@ And now, my endeared friend, farewell!
 May the Lord`'s Truth ever be thy shield and buckler,
 is the prayer of one who remains thy affectionate friend, in every trial.
 
+[.signed-section-signature]
 Cordelia Bayes.
 
+[.letter-heading]
 From J. W. to Ezra Comfort.
 
+[.signed-section-context-open]
 Hopkinton, the 21st of 11th mo., 1843.
 
+[.salutation]
 My Dear Friend,
 
 Thy letter, although it has thus long remained unanswered,
@@ -2038,12 +2126,16 @@ In much love to thyself and family, and dear Alice Knight,
 in which my wife and family unite,
 I conclude in that which I hope will abide with us forever, and am thine,
 
+[.signed-section-signature]
 John Wilbur.
 
+[.letter-heading]
 From Ann Jones to J. W.
 
+[.signed-section-context-open]
 Stockport, 26th of 12th mo., 1848.
 
+[.salutation]
 My Dear Aged and Afflicted Friend,
 
 This is the appellation and address which lives in my mind towards thee from day to day,
@@ -2099,12 +2191,16 @@ to stand for the Truth in innocent boldness.
 
 Thy sister and companion in tribulation, and in the kingdom and patience of Jesus Christ,
 
+[.signed-section-signature]
 Ann Jones.
 
+[.letter-heading]
 From J. W. to Ezra Comfort.
 
+[.signed-section-context-open]
 Hopkinton, 2nd mo., 20th, 1844.
 
+[.salutation]
 My Dear Friend,
 
 Perhaps there is not another within the circle of my acquaintance so well qualified
@@ -2203,12 +2299,16 @@ counting not their own lives dear in comparison with the
 love of God and the testimony of his life and power;
 and so I remain thy friend and brother,
 
+[.signed-section-signature]
 John Wilbur.
 
+[.letter-heading]
 From J. W. to Thomas B. Gould.
 
+[.signed-section-context-open]
 Hopkinton, 5th mo., 14th, 1844.
 
+[.salutation]
 My Dear Friend,
 
 Although much engaged,
@@ -2261,12 +2361,16 @@ the more it is trodden under the feet of ungodly men:
 and then the storehouse will be full, and enlarged,
 against the day of Israel`'s deliverance from his bondage.
 
+[.signed-section-closing]
 Thy friend,
 
+[.signed-section-signature]
 John Wilbur.
 
+[.letter-heading]
 From Alice Knight to J. W.
 
+[.signed-section-context-open]
 Frankford 6th mo., 10th, 1844.
 
 Notwithstanding I have written the last letter to my dear friend John Wilbur,
@@ -2350,12 +2454,16 @@ May all the rightly exercised be encouraged to put on the whole armor of faith!
 
 A letter from thee is always gladly received by thy unworthy correspondent,
 
+[.signed-section-signature]
 Alice Knight.
 
+[.letter-heading]
 From L. A. Barclay to J. W.
 
+[.signed-section-context-open]
 Reigate, Surrey, 6th mo., 14th, 1844.
 
+[.salutation]
 My Dear And Honored Friend,
 
 My mind seemed so much with thee the last week that I think I must (though in a poor,
@@ -2408,12 +2516,16 @@ and oh! that thou mayest be kept of him in peace to the end!
 When it is well with thee crave the strengthening and preservation
 of thy nearly united and affectionate friend,
 
+[.signed-section-signature]
 Lydia A. Barclay.
 
+[.letter-heading]
 From Ann Jones to J. W. and Wife.
 
+[.signed-section-context-open]
 Stockport, 7th mo., 28th, 1844.
 
+[.salutation]
 My Dear Afflicted Friends,
 
 I began this at home on first day evening,
@@ -2461,12 +2573,16 @@ Thou hast his near sympathy.
 Dear Sarah Horner sends her love very affectionately.
 Accept mine also, in which I am thy friend in tribulation,
 
+[.signed-section-signature]
 Ann Jones.
 
+[.letter-heading]
 From J. W. to Thomas B. Gould.
 
+[.signed-section-context-open]
 Hopkinton, 8th mo., 1st, 1844.
 
+[.salutation]
 My Dear Thomas,
 
 I have thought a great deal about thee,
@@ -2518,12 +2634,16 @@ My wife joins me in dear love to thyself and wife, and all our dear friends,
 who are resolved to follow on to know the Lord more perfectly,
 though obtained only through this great fight of affliction.
 
+[.signed-section-signature]
 John Wilbur.
 
+[.letter-heading]
 From J. W. to Ezra Comfort.
 
+[.signed-section-context-open]
 Hopkinton, 8th mo., 22nd 1844.
 
+[.salutation]
 My Dear Friend,
 
 Well, inasmuch as I hesitate not in believing that the course
@@ -2629,14 +2749,19 @@ encourages our publishing a statement of the wrongs which
 we have received at the hands of our opposers in New England,
 which, as far as I can hear, will be agreeable to all sound Friends in this country.
 
+[.signed-section-closing]
 From thy friend,
 
+[.signed-section-signature]
 John Wilbur.
 
+[.letter-heading]
 From J. W. to Thomas B. Gould.
 
+[.signed-section-context-open]
 Near Kingston, 9th mo., 1st, 1844.
 
+[.salutation]
 My Dear Thomas,
 
 In my letter to John Pease, I mentioned that a friend to him as well as me,
@@ -2687,12 +2812,16 @@ even if it should require long and fearful standing in the very bottom of that r
 In much near and dear love and affection to you all,
 and all the honest-hearted on that island, I am thine,
 
+[.signed-section-signature]
 John Wilbur.
 
+[.letter-heading]
 From J. W. to Moses Comfort.
 
+[.signed-section-context-open]
 Hopkinton, R. I., 10th mo., 22nd, 1844.
 
+[.salutation]
 My Dear Friend,
 
 I felt greatly obliged to thee for thy interesting
@@ -2766,12 +2895,16 @@ or rather for the loss of them, from their ranks in the Lord`'s army!
 Farewell.
 From thy affectionate, though tribulated friend,
 
+[.signed-section-signature]
 John Wilbur.
 
+[.letter-heading]
 From Lydia A. Barclay to J. W.
 
+[.signed-section-context-open]
 Reigate, Surrey, 25th of 10th mo., 1844.
 
+[.salutation]
 My Dear Friend,
 
 There are so many amongst us who cannot discern through things--they seem as if they
@@ -2801,12 +2934,16 @@ and righteousness cannot enter!`"
 
 I am, in the fellowship of the gospel, thy affectionate friend,
 
+[.signed-section-signature]
 Lydia A Barclay.
 
+[.letter-heading]
 From J. W. to Ezra Comfort.
 
+[.signed-section-context-open]
 Hopkinton, 12th mo., 14th, 1844.
 
+[.salutation]
 My Dear Friend Ezra Comfort,
 
 I received in due time thy last letter,
@@ -2866,12 +3003,16 @@ In much love to thyself and wife, and all our dear friends,
 in which my wife unites with me, I conclude as ever thy friend,
 in the covenant of the everlasting gospel,
 
+[.signed-section-signature]
 John Wilbur.
 
+[.letter-heading]
 From Thomas B. Gould to J. W.
 
+[.signed-section-context-open]
 Newport, 19th of 12th mo., 1844.
 
+[.salutation]
 My Dear Friend,
 
 I suppose thou hast seen brother J.`'s letter,
@@ -2921,13 +3062,18 @@ whom I look upon as a father indeed; and in the scarcity of such,
 perhaps thou wilt excuse the simplicity and freedom of a little child,
 and believe me to be, in all sincerity, truly thine with love unchanged,
 
+[.signed-section-signature]
 T+++.+++ B. Gould.
 
+[.letter-heading]
 From Ezra Comfort to J. W.
 
+[.signed-section-context-open]
 Whitemarsh, 3rd mo., 20th, 1845.
 
-My Very Dear And Much Esteemed Friend John Wilbur,
+[.salutation]
+My Very Dear And Much Esteemed
+Friend John Wilbur,
 
 I received thy very acceptable present, and, after reading it,
 I can say it is a very satisfactory work;
@@ -3051,12 +3197,16 @@ tell them it is my desire they may not be too much
 cast down at the prospect that is before them,
 for He that is with them, and in them, is greater than all them that are without.
 
+[.signed-section-closing]
 I remain thy sincere friend,
 
+[.signed-section-signature]
 Ezra Comfort.
 
+[.letter-heading]
 From Ann Jones to J. W.
 
+[.signed-section-context-open]
 Stockport, 31st of 5th mo., 1845.
 
 My Dear Afflicted Friend and Brother in the Bonds
@@ -3129,12 +3279,16 @@ thanksgiving and praise.
 
 In the bonds and fellowship of the gospel of peace, farewell.
 
+[.signed-section-signature]
 Ann Jones.
 
+[.letter-heading]
 From John Harrison to J. W.
 
+[.signed-section-context-open]
 Manchester, 7th mo., 1st, 1845.
 
+[.salutation]
 My Dear Friend John Wilbur,
 
 Thy volume of proceedings has been delivered to me by an unknown hand,
@@ -3236,8 +3390,10 @@ as they are palpably manifest in his writings.
 This is my strong conviction on the perusal of this most interesting, extraordinary,
 and highly important volume coupled with my previous knowledge of the works of J. J. G.
 
+[.signed-section-signature]
 J+++.+++ H.
 
+[.signed-section-context-open]
 6th mo., 2nd, 1845.
 
 I consider thy separation grievous and extremely unjust,
@@ -3253,12 +3409,16 @@ so long as Christ continues to be the head of his true church, which he ever wil
 Wishing thee well in the true acceptation of the term,
 I subscribe myself thy very affectionate friend,
 
+[.signed-section-signature]
 John Harrison.
 
+[.letter-heading]
 From Croudson Tunstall to J. W.
 
+[.signed-section-context-open]
 West Nantwich, Cheshire, 9th mo., 24th, 1845.
 
+[.salutation]
 My Dear Friend,
 
 A long time has elapsed since I received thy acceptable reply to my letter,
@@ -3321,14 +3481,19 @@ it will not do to go with them,
 although we may be left as the "`three hundred`" of the "`Thirty-two thousand;`" yet,
 if our hearts are true to the Captain of our salvation, there is no cause for dismay.
 
+[.signed-section-closing]
 Thy affectionate friend,
 
+[.signed-section-signature]
 Croudson Tunstall.
 
+[.letter-heading]
 From Ezra Comfort to J. W.
 
+[.signed-section-context-open]
 Whitemarsh, 8th mo., 22nd, 1845.
 
+[.salutation]
 My Dear Friend John Wilbur,
 
 I think I can truly address thee as such in the fellowship of suffering.
@@ -3491,10 +3656,13 @@ Such, and many more are his irreconcilable inconsistencies.
 With much love to thee, thy family and all thy dear suffering friends as if named,
 I remain thy friend, Ezra Comfort.
 
+[.letter-heading]
 From J. W. to Ezra Comfort.
 
+[.signed-section-context-open]
 Hopkinton, the 21st of 10th mo., 1845.
 
+[.salutation]
 My Dear Friend,
 
 Taking a view of our Society at large, and of its lapsed condition,
@@ -3557,14 +3725,19 @@ through the unsanctified condition of some who escaped with us, and the enmity o
 the testimony should not be exalted and honored,
 as our holy Leader designs it should be.
 
+[.signed-section-closing]
 Thy friend,
 
+[.signed-section-signature]
 John Wilbur.
 
+[.letter-heading]
 From Ann Jones to J. W.
 
+[.signed-section-context-open]
 Stockport, 1st mo., 22nd, 1846.
 
+[.salutation]
 My Dear Aged And Afflicted Friend And Brother, John Wilbur,
 
 Thine of 7th mo., 14th,
@@ -3686,14 +3859,19 @@ She is so intimate with H. C. B., who is so interwoven with,
 or wrapped up in her cousin J. J. G.,
 that one cannot look for much like genuine Quakerism in that quarter.
 
+[.signed-section-closing]
 Thy sympathizing friend,
 
+[.signed-section-signature]
 Ann Jones.
 
+[.letter-heading]
 From L. A. Barclay to J. W.
 
+[.signed-section-context-open]
 Reigate, Surrey, 4th mo, 28th, 1846.
 
+[.salutation]
 My Dear And Valued Friend,
 
 There is a sad kind of infatuation attendant upon the generality,
@@ -3771,10 +3949,13 @@ minister to the mixture and baptize into the mixture,
 and thus the evil disease, by the linsey-woolsey garment, is increased,
 and alas! is not the enemy`'s kingdom thereby promoted?
 
+[.letter-heading]
 From Ezra Comfort to J. W.
 
+[.signed-section-context-open]
 Whitemarsh, 8th mo., 12th, 1846.
 
+[.salutation]
 My Dear Friend And Brother, John Wilbur,
 
 Not having for a long time received any communication from thee,
@@ -3920,14 +4101,19 @@ may our remembrance of each other be mutual.
 
 So I rest, I trust, in that which changeth not,
 
+[.signed-section-closing]
 Thy friend and brother,
 
+[.signed-section-signature]
 Ezra Comfort.
 
+[.letter-heading]
 From J. W. to Nathan Douglas.
 
+[.signed-section-context-open]
 Portland, 9th mo., 8th, 1846.
 
+[.salutation]
 My Dear Friend Nathan Douglas,
 
 Since being in these parts I have felt a strong attraction towards thee,
@@ -4070,12 +4256,16 @@ so that nothing pertaining to our own good and to
 the good of this people may be hid from our eyes.
 Farewell.
 
+[.signed-section-signature]
 John Wilbur.
 
+[.letter-heading]
 From J. W. to William Hodgson, Jr.
 
+[.signed-section-context-open]
 Hopkinton, 9th mo., 29th, 1846.
 
+[.salutation]
 My Dear Friend,
 
 Thou wast not mistaken in thy apprehensions of my feelings when I wrote thee from Salem;
@@ -4237,12 +4427,16 @@ who would acknowledge fellowship with us abroad;
 for then we should have better help than man, or of a body of men.
 My wife and I are in usual health, and join in love to thee and wife.
 
+[.signed-section-closing]
 Thy affectionate friend,
 
+[.signed-section-signature]
 John Wilbur.
 
+[.letter-heading]
 From John Harrison to J. W.
 
+[.signed-section-context-open]
 Manchester, England, 10th mo., 3rd, 1846.
 
 My Dear Friend John Wilbur,
@@ -4281,12 +4475,16 @@ But that such can ultimately stand I have no expectation.
 
 Believe me as ever thy sincerely affectionate friend,
 
+[.signed-section-signature]
 John Harrison.
 
+[.letter-heading]
 From Lydia A. Barclay to J. W.
 
+[.signed-section-context-open]
 Reigate, Surrey, 27th of 1st mo., 1847.
 
+[.salutation]
 My Dear And Valued Friend,
 
 What wilt thou say to me for my long silence?
@@ -4473,12 +4671,16 @@ In the great satisfaction and love which for many years we have had together,
 and for each other, the remembrance of which now rejoices my heart, I take my leave,
 and remain thy affectionate friend,
 
+[.signed-section-signature]
 Christopher Healy.
 
+[.letter-heading]
 From Ezra Comfort to J. W.
 
+[.signed-section-context-open]
 Whitemarsh, 4th mo., 9th, 1847.
 
+[.salutation]
 My Dear And Much Esteemed Friend, John Wilbur,
 
 I received thy truly acceptable letter shortly after date.
@@ -4526,14 +4728,19 @@ to keep and possess their souls in the everlasting patience of the saints;
 tell them the Lord`'s work is going on, and will be carried on to his own glory,
 and to the everlasting peace of his faithful children.
 
+[.signed-section-closing]
 Thy friend,
 
+[.signed-section-signature]
 Ezra Comfort.
 
+[.letter-heading]
 From J. W. to Samuel Tuke.
 
+[.signed-section-context-open]
 Hopkinton, 10 mo., 1847
 
+[.salutation]
 My Dear Friend,
 
 The present and future condition and standing of our religious Society generally,
@@ -4650,12 +4857,16 @@ of moral principles as well as those of the Society,
 abused and perverted its own discipline and the order of Friends
 in a manner so fully demonstrated to the Society at large.
 
+[.signed-section-closing]
 Thy sincere friend,
 
+[.signed-section-signature]
 John Wilbur.
 
+[.letter-heading]
 From Lydia A. Barclay to J. W.
 
+[.signed-section-context-open]
 Spital, Aberdeen, 11th mo., 1847.
 
 Is there not an uncommon backwardness and shrinking on the
@@ -4706,14 +4917,19 @@ but as fast, nearly, as they silence one, another is raised up by the Divine pow
 The same overbearing spirit reigns elsewhere and its plausible influence
 is most sad though not as yet carrying things to the same height.
 
+[.signed-section-closing]
 I remain thy affectionate friend,
 
+[.signed-section-signature]
 Lydia A. Barclay.
 
+[.letter-heading]
 From Margaret Crosfield to J. W.
 
+[.signed-section-context-open]
 Liverpool, 3rd of 3rd month, 1848.
 
+[.salutation]
 My Dear Friend John Wilbur.
 
 I am but little able to reply to thy kind, sympathizing letter as it deserves;
@@ -4783,14 +4999,19 @@ we never were free to open much of this to thee knowing
 how great thy own burdens of this kind were,
 and wished not to add to them.
 
+[.signed-section-closing]
 I remain thy sorrowful and afflicted friend,
 
+[.signed-section-signature]
 Margaret Crosfield.
 
+[.letter-heading]
 From Lydia A. Barclay to J. W.
 
+[.signed-section-context-open]
 Banchory, near Aberdeen, 3rd mo., 11th, 1848.
 
+[.salutation]
 My Dear And Valued Friend,
 
 I am much obliged for thy explanation of how matters are at Philadelphia;
@@ -4827,12 +5048,16 @@ my dear love salutes thee and thine and all faithful
 Friends in your land in the Truth that is unchangeable;
 in which I remain thy sympathizing and affectionate friend,
 
+[.signed-section-signature]
 Lydia A. Barclay.
 
+[.letter-heading]
 From J. W. to Ann Jones, Of China, Maine.
 
+[.signed-section-context-open]
 Hopkinton, 6th mo., 30th, 1848.
 
+[.salutation]
 My Dear Friend,
 
 Neither thy husband`'s solicitations for an interview,
@@ -5083,12 +5308,16 @@ I would also, that my dear friends Eli and Sybil Jones may see it; and,
 be assured my dear Ann, that any remarks if written in good feeling, in reply to it,
 by any of you, will be kindly received, and carefully read by me.
 
+[.signed-section-signature]
 John Wilbur.
 
+[.letter-heading]
 From J. W. to Lydia A. Barclay.
 
+[.signed-section-context-open]
 Hopkinton, 7th mo., 15th, 1848.
 
+[.salutation]
 My Dear And Well-Beloved Friend,
 
 Although I am indebted to thee for a good letter written from Scotland,
@@ -5204,15 +5433,20 @@ in the faith of the ancient doctrines of Friends.
 And my desire and prayer is that we may not only keep the faith of the early Friends,
 but be favored to live such lives as they lived.
 
+[.signed-section-closing]
 Thy ever sincere friend,
 
+[.signed-section-signature]
 John Wilbur.
 
+[.letter-heading]
 From J. W. to Smith Upton.
 
+[.signed-section-context-open]
 Hopkinton, 7th mo., 3rd, 1848.
 
-Hy Dear Friend,
+[.salutation]
+My Dear Friend,
 
 Persuaded as I am that the principles of Friends are grounded on primitive Christianity,
 leading more directly and more entirely than those of any other people,
@@ -5445,12 +5679,16 @@ whereby such a dignified purpose can be effected, thou wilt be pleased, I hope,
 in the like freedom in which I have written thee to state to me your views thereon,
 and much oblige thy ever sincere friend,
 
+[.signed-section-signature]
 John Wilbur.
 
+[.letter-heading]
 From Lydia A. Barclay to J. W.
 
+[.signed-section-context-open]
 Spital, Aberdeen, Scotland, 7th mo., 27th, 1848.
 
+[.salutation]
 My Dear And Valued Friend,
 
 I am only just returned home from the Yearly Meeting and visiting
@@ -5560,10 +5798,13 @@ Farewell, my endeared friend, in a measure I humbly trust of this true love,
 desiring thy breathing when favored with ability, and I remain thy nearly united,
 and affectionate friend,
 
+[.signed-section-signature]
 Lydia A. Barclay.
 
+[.letter-heading]
 From J. W. to Ralph And Lydia Neild.
 
+[.signed-section-context-open]
 Hopkinton, 9 mo., 5, 1848.
 
 However long our correspondence has been suspended, my dear friends,
@@ -5726,14 +5967,19 @@ Then through faith do we not see that her cords will be lengthened and her stake
 and many shall run to and fro and the knowledge of the Lord be increased,
 and judgment shall run down as waters, and righteousness as a river.
 
+[.signed-section-closing]
 Your friend,
 
+[.signed-section-signature]
 John Wilbur
 
+[.letter-heading]
 From L. A. Barclay to J. W.
 
+[.signed-section-context-open]
 Aberdeen, Scotland, 6th mo., 21st, 1849.
 
+[.salutation]
 My Dear And Valued Friend,
 
 Oh, how helpful and strengthening (and what a blessing!)
@@ -5777,14 +6023,19 @@ and also to acknowledge the acceptable services of S. H. (whose long,
 and painful supplications, etc.,
 had tried some of us greatly!) and to give her a returning certificate.
 
+[.signed-section-closing]
 Thy affectionate friend,
 
+[.signed-section-signature]
 Lydia A. Barclay.
 
+[.letter-heading]
 From J. W. To Elizabeth Pitfield.
 
+[.signed-section-context-open]
 Hopkinton, 6th mo., 23rd, 1849.
 
+[.salutation]
 My Dear Friend Elizabeth Pitfield,
 
 I have felt my mind for these few days drawn into near brotherly feeling with thee,
@@ -5828,14 +6079,19 @@ and all that precious number yet spared by reason of their
 meekness and lowliness from the overwhelming surge of temptation,
 be their allotment among his people what it may; in which desire my wife joins me.
 
+[.signed-section-closing]
 Thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ Wilbur.
 
+[.letter-heading]
 From J. W. to Mary Davis.
 
+[.signed-section-context-open]
 Hopkinton, 6th mo., 27,1849.
 
+[.salutation]
 My Dear Friend Mary Davis,
 
 My wife has ever since we left Newport been gradually
@@ -5895,12 +6151,16 @@ generations to come may have occasion to glorify our Father in heaven.
 In much love to thyself, and all faithful Friends in your Quarterly Meeting, I conclude,
 and am very affectionately thy friend,
 
+[.signed-section-signature]
 John Wilbur.
 
+[.letter-heading]
 From Lydia A. Barclay to J. W.
 
+[.signed-section-context-open]
 Aberdeen, Scotland, 27th of 11th mo., 1849.
 
+[.salutation]
 My Dear Friend,
 
 Thy kind letter of 10th mo., 12th, was received on the 30th of the same,
@@ -5929,14 +6189,19 @@ Had Philadelphia acted with more firmness and promptitude early,
 I expect it would have better helped both us and
 other Yearly Meetings on your side the water.
 
+[.signed-section-closing]
 I remain thy affectionate friend,
 
+[.signed-section-signature]
 Lydia A. Barclay.
 
+[.letter-heading]
 From Sarah Hillman to J. W.
 
+[.signed-section-context-open]
 Philadelphia, 1st mo., 13th, 1850.
 
+[.salutation]
 My Beloved Friend,
 
 Although thy precious, consolatory salutation of 8th mo., 30th, 1849,
@@ -5995,12 +6260,16 @@ and conduct thee in peace over Jordan.
 
 Thy truly attached sympathizing friend and sister,
 
+[.signed-section-signature]
 Sarah Hillman.
 
+[.letter-heading]
 From Christopher Healy to J. W.
 
+[.signed-section-context-open]
 Lower Makefield, Bucks County, Pa., 3rd mo., 22nd, 1850.
 
+[.salutation]
 My Dear Friend John Wilbur,
 
 In the love of the gospel I write unto thee to inform thee that I received
@@ -6058,12 +6327,16 @@ as well as how thou art in bodily health.
 So I conclude in that love which shall abide,
 thy brother in the gospel of the dear Son of God,
 
+[.signed-section-signature]
 Christopher Healy.
 
+[.letter-heading]
 From J. W. to William Hodgson, Jr.
 
+[.signed-section-context-open]
 Fifth day, after meeting, the 5th of 9th mo., 1850.
 
+[.salutation]
 My Dear Friend,
 
 Abounding has not been prevailingly my lot, since I parted with thee at Newport,
@@ -6130,12 +6403,16 @@ for this half year past.
 I remain very affectionately, as ever, thine,
 in the fellowship of that gospel which is surely unchangeable,
 
+[.signed-section-signature]
 John Wilbur.
 
+[.letter-heading]
 From Lydia A. Barclay to J. W.
 
+[.signed-section-context-open]
 Aberdeen, Scotland, 26th of 6th mo., 1850.
 
+[.salutation]
 My Dear Friend,
 
 There is very much which we are obliged to bear patiently, which we have no unity with,
@@ -6170,12 +6447,16 @@ and animated to renewed devotion to the best of Masters in future!
 Hoping this will find thee and thine favored with health,
 I remain in dear love and near unity, thy true friend,
 
+[.signed-section-signature]
 Lydia A. Barclay.
 
+[.letter-heading]
 From Lydia A. Barclay to J. W.
 
+[.signed-section-context-open]
 Perth, 10th mo., 26th, 1850.
 
+[.salutation]
 My Beloved Friend,
 
 Thy last dated 8th mo., 10th, I received on the 28th of the same,
@@ -6248,14 +6529,19 @@ and so we desire to possess our souls in patience,
 humbly trusting that the Lord will cause all things to work
 together for good to those who truly love him.
 
+[.signed-section-closing]
 Thy nearly united friend,
 
+[.signed-section-signature]
 Lydia A. Barclay.
 
+[.letter-heading]
 From Lydia A. Barclay to J. W.
 
+[.signed-section-context-open]
 Aberdeen, 26th of 2nd mo., 1851.
 
+[.salutation]
 My Dear And Valued Friend John Wilbur,
 
 I can fully enter into feeling with thee respecting your own state.
@@ -6285,16 +6571,22 @@ and younger ones do not so quickly rise up to fill their places.
 Whereas, those of the modern sort who are removed by death,
 are very rapidly succeeded by others in their spirit.
 
+[.signed-section-closing]
 I remain, with dear love to thee and wife,
 
+[.signed-section-closing]
 Thy faithful friend,
 
+[.signed-section-signature]
 Lydia A. Barclay.
 
+[.letter-heading]
 From Lydia A. Barclay to J. W.
 
+[.signed-section-context-open]
 Aberdeen, 24th of 4th mo., 1851.
 
+[.salutation]
 My Dear Friend,
 
 I can fully enter into thy account of the laxity
@@ -6339,8 +6631,10 @@ Oh! that we may then "`trust in the Lord forever;
 for in the Lord Jehovah is everlasting strength,`" bearing in mind that
 the true trust implies an humble yielding to his holy power!
 
+[.signed-section-closing]
 Thy nearly united friend,
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
 +++[+++The person to whom the following letter was addressed,
@@ -6372,10 +6666,13 @@ her service in that respect was accomplished;
 and she believed it to be her place to associate with those who hold and support them;
 and that the writer ought to have done so likewise.]
 
+[.letter-heading]
 From J. W. To Sophronia Page.
 
+[.signed-section-context-open]
 Hopkinton, 6th mo., 2nd, 1851.
 
+[.salutation]
 Dear Sophronia,
 
 I may well so address thee,
@@ -6490,12 +6787,16 @@ I should be truly glad to hear from thee and how it is with thee every way.
 
 From thy affectionate friend and true well wisher,
 
+[.signed-section-signature]
 John Wilbur.
 
+[.letter-heading]
 From Lydia A. Barclay to J. W.
 
+[.signed-section-context-open]
 Aberdeen, 25th of 7th mo., 1851.
 
+[.salutation]
 My Dear Friend,
 
 There is need of faithful standard-bearers amongst us,
@@ -6549,8 +6850,10 @@ Oh! that we may be graciously permitted to meet in the heavenly country,
 where the wicked cease from troubling, and the weary are at rest!
 Thy steady friend,
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.letter-heading]
 From J. W. to Benjamin Seebohm.^
 footnote:[The original draft of this letter was found among
 J.W.`'s papers apparently in an unfinished state;
@@ -6562,8 +6865,10 @@ it is very probable that he may have made some changes in
 the language;--but these are believed not to be material,
 or to embrace any matter of importance.]
 
+[.signed-section-context-open]
 Hopkinton, 10th mo., 1851.
 
+[.letter-heading]
 To Benjamin Seebohm, Respected Friend,
 
 When thou called at our house, thy time, as it appeared, did not admit, as I desired,
@@ -6711,8 +7016,10 @@ the blessed doctrine of Christ in man the hope of glory--Christ the true light,
 etc.) was painful to honest Friends, resorting, as he did,
 to such perversions as even our enemies in George Fox`'s time, did not resort to.
 
+[.letter-heading]
 From Lydia A. Barclay to J. W.
 
+[.signed-section-context-open]
 Aberdeen, 12th, 11th mo., 1851.
 
 It would be a relief to a remnant here could we also be outwardly united together,
@@ -6761,4 +7068,5 @@ crave the help of the little remnant of tried ones in this land!
 In that precious bond which death has no power over,
 I remain thy nearly united and affectionate friend,
 
+[.signed-section-signature]
 Lydia A. Barclay.

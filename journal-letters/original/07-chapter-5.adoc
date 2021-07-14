@@ -1,6 +1,7 @@
 [short="Chapter V"]
 == Chapter V. Account of his Sufferings, From the Year 1840 to 1844, for his Testimony Against Unsound Doctrines.
 
+[.offset]
 +++[+++The following narrative of events,
 forming a most important portion of the travails and exercises,
 and deep sufferings of John Wilbur for the cause and testimony of Truth,
@@ -202,7 +203,7 @@ These letters drew upon their author, as well as their publisher,
 the great displeasure of those in England,
 who were disposed to confound Hicksism with primitive Quakerism.
 They came out on the eve of the publication of their avowed sentiments to that effect;
-which they soon after published in a work called the Beacon,
+which they soon after published in a work called the _Beacon,_
 and which also contained many other sentiments,
 which stand directly at variance with the fundamental doctrines of Friends.
 Many of the abettors of these opinions soon after separated themselves from the Society,
@@ -226,23 +227,23 @@ They professed to know more of the state of things in that country,
 than one who had mingled largely with the Society there,
 and had held conversation with most or all of their principal members.
 
-But the coming out of the Beacon soon after,
+But the coming out of the _Beacon_ soon after,
 and the author of it being strongly supported, as he was,
 by divers leading and influential characters,
 put the question out of all dispute with sound Friends,
 that those letters were needful on the occasion and published at
 the right time,--that it was highly important that something of
 the kind should have been laid before the Society at that time.
-When that pernicious book called the Beacon, so subversive of Quakerism,
+When that pernicious book called the _Beacon,_ so subversive of Quakerism,
 as well as of vital Christianity, reached this country, the writer of this,
 under the same concern,
 used his best endeavors to prevail on the Meeting for Sufferings
 for New England to testify against its sentiments,
 but his labors in this respect were unsuccessful.
 
-The doctrines of J. J. Gurney contained in his Brief Remarks
-on Impartiality in the Interpretation of Scripture,
-are of the same cast with those of the Beacon, by Isaac Crewdson,
+The doctrines of J. J. Gurney contained in his [.book-title]#Brief Remarks
+on Impartiality in the Interpretation of Scripture,#
+are of the same cast with those of the _Beacon,_ by Isaac Crewdson,
 and so nearly agreeing in substance,
 that a wise man could scarcely distinguish the purport of the one from the other.
 Each of these writers has published doctrines essentially
@@ -508,7 +509,7 @@ one of their number, the expression,
 "`I acknowledge that some of J. J. Gurney`'s writings are very unsound.`"
 But for this imprudence, he was immediately jogged by John Meader,
 one of his colleagues who sat near him, and who dissented from his concession, by saying,
-"` I should not have said so.`"
+"`I should not have said so.`"
 
 Finally,
 they utterly refused to hear his defence or the reading
@@ -527,8 +528,13 @@ John Wilbur addressed the following letter to Thomas Anthony,
 the first-named of the committee,
 with whom he had previously stood in the relation of great intimacy.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Hopkinton, 30th of 5th mo., 1840.
 
+[.salutation]
 To My Dear Friend, Thomas Anthony,
 
 After thus allowing time for solid deliberation on
@@ -641,7 +647,11 @@ and however trivial some of them are, and unreasonable others appear to me, yet,
 as they have been deemed by ministers and elders to be worth naming,
 they will be recognized, by way of a defence and apology, for the course I have taken.
 
-1st. That I have frequently, in conversation and in writing,
+[.numbered-group]
+====
+
+[.numbered]
+_1st._ That I have frequently, in conversation and in writing,
 reprobated some of the sentiments of J. J. Gurney,
 and even on some occasions when abroad in the ministry.
 To this charge, so worded, I confess guilty, if guilt is attached thereto; and,
@@ -649,16 +659,21 @@ in remarking upon it, I will first ask thee, Thomas,
 whether thou will admit that a professed minister abroad could
 be chargeable with doctrines so dangerous as to warrant such procedure?
 
-2nd. Whether the doctrines of Hannah Barnard and Elias Hicks were so exceptionable
+[.numbered]
+_2nd._ Whether the doctrines of Hannah Barnard and Elias Hicks were so exceptionable
 as to warrant a watchword to the churches under similar circumstances?
 
-3rd. Whether Moses and the prophets were warranted,
+[.numbered]
+_3rd._ Whether Moses and the prophets were warranted,
 in so full and so public a manner as they often did,
 in testifying against the abuses of the doctrines and commandments of the former covenant?
 
-4th. Whether the apostle Paul and George Fox did right in
+[.numbered]
+_4th._ Whether the apostle Paul and George Fox did right in
 publicly withstanding and marking those who caused divisions
 by introducing doctrines contrary to the doctrines of Christ?
+
+====
 
 The apostle, it seems, in his public epistle, entreated his brethren,
 without distinction of age or standing, and without exception to any circumstance,
@@ -686,7 +701,11 @@ when he was speaking of those who brought in doctrines
 contrary to the doctrines of Christ;
 for, said he, "`He that biddeth him God speed, is a partaker of his deeds.`"
 
-2nd charge.
+[.numbered-group]
+====
+
+[.numbered]
+_2nd charge._
 That I knew the Yearly Meeting`'s committee were
 unwilling that I should travel in the ministry;
 therefore, I ought not to have gone to Philadelphia.
@@ -696,7 +715,8 @@ and to J. Meader`'s language to me at Dover Quarterly Meeting, all amounting to 
 that the committee had no desire to stop my going on the proposed visit; besides which,
 I had never heard from them--how, then, can the committee make this charge?
 
-3rd charge.
+[.numbered]
+_3rd charge._
 That they understood that I had favored the idea of a division of the Yearly Meeting;
 which was so fully answered at thy daughter`'s, viz: That no one among us,
 to my knowledge, had labored more to keep Friends in New England to the one faith,
@@ -704,7 +724,8 @@ even to that alone which would keep us together, and prevent our being scattered
 +++[+++showing]
 that a disagreement in principle is the root of schism.
 
-4th charge.
+[.numbered]
+_4th charge._
 That I have companied with some young men,
 who have made a stand against the unsound sentiments of J. J. Gurney;
 to which I confess judgment; and that I have also companied with some who are not young,
@@ -713,7 +734,8 @@ But I would say, that I believe these with whom I have companied,
 and who have taken the same ground,
 would not suffer in point of character in a comparison with others.
 
-5th charge.
+[.numbered]
+_5th charge._
 That I suffered Thomas B. Gould to go with me, as companion, to Philadelphia.
 That he went in company with me, as did divers other Friends, I acknowledge;
 but that he went with me as a companion,
@@ -724,7 +746,8 @@ nor am I ashamed to be in company with either of them;
 although neither may be without his faults--nor yet myself--did
 not think of its being any disgrace to be seen with them.
 
-6th charge.
+[.numbered]
+_6th charge._
 "`That I suffered letters and extracts from John Barclay
 and Ann Jones to pass through my hands to others.`"
 In answer to this, I would ask,
@@ -739,7 +762,8 @@ and do find as much fault with letters which go to give
 currency to the author of these very unsound doctrines,
 as they do with letters which go to expose and detect them?
 
-7th charge.
+[.numbered]
+_7th charge._
 "`That I said to N. Monroe, that J. J. Gurney would not dare to come to New England.`"
 Now we know the difficulty of proving a negative;--but I will say,
 that I was at Monroe`'s, and probably said something in relation to the man;
@@ -749,6 +773,8 @@ it looks so altogether unlikely that I used that form of words,
 that I feel safe in demurring to the charge;
 however little or nothing could be made of it, if I had so spoken,
 more than that I was mistaken.
+
+====
 
 Now, if we take all these accusations into view, my dear Thomas,
 which of the things complained of would not be affected, in point of right or wrong,
@@ -806,11 +832,16 @@ But let us stop a moment,
 and inquire whether there have not been some depredations
 committed during the present visit.
 
-First, he justifies his former wrongs,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ he justifies his former wrongs,
 which revives and restores them to the present tense,
 and refuses to make the least concession of them.
 
-Second, he has himself been spreading defective books since his arrival in America.
+[.numbered]
+_Second,_ he has himself been spreading defective books since his arrival in America.
 I saw one which he presented to a Friend, with a note desiring his acceptance of it,
 dated Philadelphia, 8th month, 1837,
 and signed with his own hand--a book recommending a form of prayer,
@@ -820,6 +851,8 @@ And besides his spreading unsound books since his arrival,
 many defective ideas of doctrine have escaped him in the Gallery; the which,
 if collected with the like industry as has been obvious in some other instances,
 the catalogue would be very considerable.
+
+====
 
 Now, my dear friend, pause for a moment, and see; one man can write, and preach,
 and spread very unsound doctrines, and still receive the warm support,
@@ -890,13 +923,21 @@ was witnessed in both the men`'s and women`'s meeting.
 The two or three exceptionable doctrines of J. J. Gurney, alluded to above,
 might be selected from the many, under the following heads:--
 
-1st. That the gospel of Christ, is not in itself the power of God unto salvation.
+[.numbered-group]
+====
 
-2nd. That men are justified by faith, without regard to obedience.
+[.numbered]
+_1st._ That the gospel of Christ, is not in itself the power of God unto salvation.
 
-3rd. That was the true light which lighteth every man that cometh into the world,
+[.numbered]
+_2nd._ That men are justified by faith, without regard to obedience.
+
+[.numbered]
+_3rd._ That was the true light which lighteth every man that cometh into the world,
 he construes to mean no more than Christ incarnate, "`the enlightener.`"
 Let all imbibe these three items of doctrine, and Quakerism would be no more.
+
+====
 
 Having a little room yet left upon this sheet,
 I will occupy it with a few extracts from a piece in my possession on church order,
@@ -952,11 +993,15 @@ then such proceedings, so far from being the right support of good order,
 are but the abuse of order,
 and can be accounted of no better than an attempt
 to support order at the expense of principle,
-the parent of order.
+the parent of order.`"
 
+[.signed-section-closing]
 I am thy friend,
 
-J+++.+++ W.`"
+[.signed-section-signature]
+J+++.+++ W.
+
+--
 
 To this letter, both himself and his colleagues declined altogether to make any reply,
 or to attempt a refutation in writing;
@@ -1708,6 +1753,10 @@ Monthly Meeting for decision in a regular manner according to discipline.
 
 The complaint thus irregularly brought into the Monthly Meeting is as follows:--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To South Kingston Monthly Meeting of Friends:--
 
 We, the committee appointed by the Yearly Meeting to extend a general care on its behalf,
@@ -1809,13 +1858,18 @@ in discharge of the service confided to us by the Yearly Meeting,
 to recommend his case to the immediate notice and
 care of South King-ton Monthly Meeting.
 
+[.signed-section-closing]
 Providence, 4th Mo., 23,1842.
 
+[.signed-section-closing]
 (Signed,)
 
+[.signed-section-signature]
 Rowland Greene, Perez Peck, John Osborne, David Buffum, Caleb Nichols, John Meader,
 Daniel Taker, William Jenkins, Edward Wing, Mary Wing, Thomas Anthony, Olive Wing,
 Elizabeth Meader, Mary B. Allen, Allen Wing.
+
+--
 
 After the reading of the complaint,
 the Yearly Meeting`'s committee proposed that the meeting should take action upon it,
@@ -1952,7 +2006,9 @@ This was objected to by the Yearly Meeting`'s committee.
 In support of his right to do so, J. W. referred to the discipline, p. 74,
 which is as follows:--
 
-"`The importance of steadfastly maintaining our ancient principles,
+[quote]
+____
+The importance of steadfastly maintaining our ancient principles,
 respecting the doctrines of the gospel, coming renewedly under our consideration,
 we earnestly recommend and enjoin upon Quarterly and Monthly Meetings,
 and upon all faithful Friends, to be watchful over our members,
@@ -1970,7 +2026,8 @@ endeavoring to bring them to a sense of their departure from our acknowledged pr
 that if possible they may be restored to soundness of faith.
 And if there should be any who should persist in their errors,
 notwithstanding such labor in brotherly love,
-that our testimony may be maintained by testifying against such.`"
+that our testimony may be maintained by testifying against such.
+____
 
 The Yearly Meeting`'s committee took the ground that the Monthly Meeting`'s
 committee had no right to set themselves up as judges of doctrine;
@@ -1985,7 +2042,10 @@ The Yearly Meeting`'s committee asked a decision of this question,
 and after taking time for deliberation the committee of
 the Monthly Meeting gave the following written decision:--
 
-"`Inasmuch as the complaint against John Wilbur charges
+[.embedded-content-document]
+--
+
+Inasmuch as the complaint against John Wilbur charges
 him with circulating an anonymous pamphlet,
 in which some of the important doctrines of our religious
 Society are reproachfully held up to view;
@@ -1995,11 +2055,16 @@ that the merits of this case essentially depends upon the
 doctrines which have been called in question by John Wilbur,
 we have concluded to allow him to proceed with his defence,
 introducing such evidence and documents on these subjects,
-as shall appear essentially to relate to the same.`"
+as shall appear essentially to relate to the same.
+
+--
 
 And, subsequently, the committee gave the following reasons for this decision, namely:--
 
-"`We come to this conclusion on the ground that John
+[.embedded-content-document]
+--
+
+We come to this conclusion on the ground that John
 Wilbur has been charged with circulating information,
 both in writing and print, calculated and intended to close the way of a Friend,
 from England, travelling among us as an approved and accredited minister,
@@ -2016,7 +2081,7 @@ and to testify against them, it appears to us, that no less could be done,
 than to allow the person so charged, to show, if he can,
 that he has been acting in conformity with the discipline in such cases.
 
-"`In answer to the assumption of the Yearly Meeting`'s committee,
+In answer to the assumption of the Yearly Meeting`'s committee,
 that we have no right to judge of doctrines,
 and that the only bodies authorized to do so, are the Yearly Meeting,
 and the Meeting for Sufferings, we would observe,
@@ -2029,7 +2094,7 @@ would involve an absurdity if this was not the case,
 for therein all faithful Friends are enjoined to be watchful against
 the manifestation of unsound doctrines among our members.
 
-"`We acknowledge,
+We acknowledge,
 that the Yearly Meeting has very properly constituted its
 Meeting for Sufferings the body to judge of the soundness
 of doctrines proposed to be published as those of the Society,
@@ -2042,7 +2107,9 @@ And, so far as our meetings and members are guided by the Spirit of Truth,
 which leads into all Truth, so far there will be an unity of sentiment among them,
 and all, as we believe,
 in full accordance with those doctrines and principles so clearly and fully testified of,
-in the early days of the Society by George Fox, and the primitive Friends.`"
+in the early days of the Society by George Fox, and the primitive Friends.
+
+--
 
 The Yearly Meeting`'s committee being informed of the decision
 of the committee of the Monthly Meeting on this question,
@@ -2134,6 +2201,10 @@ for any breach of the discipline and order of the Society.
 
 Seven of the committee in the case of J. W. made the following report:--
 
+[.embedded-content-document]
+--
+
+[.letter-heading]
 To South Kingston Monthly Meeting of Friends, to be held at Hopkinton,
 the 22nd of 8th mo., 1842.
 
@@ -2156,10 +2227,14 @@ and for the preservation of those ancient testimonies of Truth,
 committed to us as a people.
 We therefore recommend that the complaint against him be dismissed.
 
+[.signed-section-context-close]
 Hopkinton, 8th mo., 1842.
 
+[.signed-section-signature]
 Othniel Foster, William Nichols, John Foster, Isaac Collins, Joshua Gardner,
 Jr. Samuel Sheffield, Charles Perry.
+
+--
 
 Two of the committee made a counter report.
 The consideration of the first was then entered upon by the meeting;
@@ -2206,6 +2281,9 @@ them by the discipline of having access to our records.
 At the Monthly Meeting in the 10th month,
 four of the Quarterly Meeting`'s committee attended and
 presented the following written advice to the Monthly Meeting.
+
+[.embedded-content-document]
+--
 
 The committee appointed by the Quarterly Meeting to visit South Kingston Monthly Meeting,
 and for other services,
@@ -2255,10 +2333,14 @@ be now set aside and be made void and of no effect.
 Signed by the committee appointed by Rhode Island Quarterly Meeting
 to visit South Kingston Monthly Meeting and advise it on its behalf.
 
+[.signed-section-signature]
 Asa Sherman, Beriah Collins, Joseph Metcalf, Arnold Congdon.
 
+[.signed-section-context-close]
 Members of the committee present.
 Hopkinton, 10th mo., 24th, 1842.
+
+--
 
 The advice having been twice read, and embracing matters of great moment,
 and wholly unprecedented, involving not only the rights of individuals, but of meetings,
@@ -2425,6 +2507,9 @@ and informed that he might send in an acknowledgment, if so disposed.]
 if he saw fit, and make an acknowledgement; but he refused to attend.
 These two members of the committee now made the following report, to wit:--
 
+[.embedded-content-document]
+--
+
 We, of the committee appointed in the 4th month last, in the case of John Wilbur report:
 that we have attended to the duties assigned us by
 meeting John Wilbur and the Yearly Meeting`'s committee,
@@ -2443,10 +2528,14 @@ And it is our united sense and judgment that he is not in a situation and state 
 to be continued a member of our religious Society,
 which we submit to the Monthly Meeting.
 
+[.signed-section-signature]
 William S. Perry, Hezekiah Babcock.
 
+[.signed-section-context-close]
 South Kingston, 1th mo.
 23rd, 1842.
+
+--
 
 This report was the same as that presented by the same persons,
 to South Kingston Monthly Meeting in the eighth month.
@@ -2585,8 +2674,8 @@ and it broke up in the greatest confusion and disorder.
 The voice of the person speaking was entirely drowned by the noise,
 and perceiving the meeting really breaking up, he desisted.
 
-At New England Yearly Meeting, held on Rhode Island.
-6th month, 1843.
+[.blurb]
+=== At New England Yearly Meeting, held on Rhode Island. 6th month, 1843.
 
 It appeared from the account of Rhode Island Quarterly Meeting,
 that a portion of Greenwich Monthly Meeting,
@@ -2660,10 +2749,16 @@ the Friend said it was very clear that the discipline had not been kept to,
 for the Monthly Meeting not only had not refused to appeal,
 but the Quarterly Meeting had given us information that it had actually appealed.
 
-DISCIPLINE,
+[quote]
+____
 
+[.centered]
+Discipline,
+
+[.centered]
 Authorizing the dissolution of Monthly Meetings, etc.
 
+[.centered]
 (From Book of Discipline, pages 118, 119.)
 
 When a Quarterly Meeting hath come to a judgment respecting any difference,
@@ -2704,6 +2799,7 @@ they shall be at liberty to appeal against the Quarterly Meeting to the Yearly M
 and until such appeal is heard and determined,
 the Friends added by the Quarterly Meeting to them, shall be deemed their members.
 1743.
+____
 
 The clerk was requested to read the "`appeal,`" a copy of which was in his hands,
 and several Friends expressed a wish to have it read,
@@ -2859,6 +2955,7 @@ from the ancient principles and testimonies of the Society,
 nor suffer any innovation upon them; these had been dear to him from his youth up,
 and were still dear to him; he then withdrew.
 
+[.offset]
 +++[+++It will be apparent to the reader of the foregoing narrative that South
 Kingston Monthly Meeting was laid down in a very extraordinary manner,
 in violation of the plain provisions of the discipline;
@@ -2871,6 +2968,7 @@ in a summary and most irregular manner, in utter disregard of his rights as a me
 These proceedings, under the same pervading and desolating influence,
 were confirmed on appeal to the superior meetings, in 1843 and 1844.
 
+[.offset]
 It may be proper here to show the manner in which these
 sad perversions of right order were afterwards overruled,
 and how those who were so unjustly cast out for their
@@ -2885,6 +2983,7 @@ which was speedily followed by further separations
 throughout Rhode Island Quarterly Meeting,
 of which that Monthly Meeting was a component part.
 
+[.offset]
 After these had taken place, the Quarterly Meeting, though much reduced in numbers,
 was relieved of that unhallowed influence and rule which had so long prevailed therein;
 and many members^
@@ -2904,6 +3003,7 @@ and restore South Kingston Monthly Meeting,
 with the rights and privileges and obligations belonging to it,
 and resting upon it prior to its dissolution.`"
 
+[.offset]
 John Wilbur also gave notice to Greenwich Monthly Meeting,
 of his intention to appeal to the Yearly Meeting for a reconsideration of his case,
 and a reversal of its judgment therein.
@@ -2915,6 +3015,7 @@ with an expression of its judgment "`that this case,
 equally with that of South Kingston Monthly Meeting,
 calls for the like action on the part of the Yearly Meeting.`"
 
+[.offset]
 These appeals came before the Yearly Meeting in 1845, after the separation;
 and upon a full and thorough investigation,
 the former judgment of the Yearly Meeting was in both cases reversed,
