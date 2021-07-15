@@ -155,7 +155,8 @@ acting as an inward teacher,
 showing the insufficiency of outward forms in effecting the work of true renovation;
 and in conclusion I was favored in fervent supplication.
 
-At Gilmanton he wrote to his wife and children as follows:--
+[.offset]
++++[+++At Gilmanton he wrote to his wife and children as follows:]
 
 [.embedded-content-document.letter]
 --
@@ -255,7 +256,8 @@ Here we had a highly favored meeting, wherein the fall of man,
 and his restoration and redemption through our Lord Jesus Christ,
 were pretty fully set forth.
 
-The following is an extract from a letter to his wife written at this place:--
+[.offset]
++++[+++The following is an extract from a letter to his wife written at this place:]
 
 [.embedded-content-document.letter]
 --
@@ -323,7 +325,8 @@ and I believe to my friends`' satisfaction.
 We dined with our dear friend John Warren at his house,
 and rode this evening fifteen miles, to Moses Sleeper`'s.
 
-From Vassalborough he wrote to his wife and children as follows:--
+[.offset]
++++[+++From Vassalborough he wrote to his wife and children as follows:]
 
 [.embedded-content-document.letter]
 --
@@ -455,7 +458,8 @@ but after getting a little settled, I had good service therein.
 which we attended to good satisfaction, and in this and the day following,
 visited some relatives in that vicinity.
 
-Here he wrote to his wife as follows:--
+[.offset]
++++[+++Here he wrote to his wife as follows:]
 
 [.embedded-content-document.letter]
 --
@@ -731,8 +735,9 @@ On the same evening, we made a little visit to Sylvanus Gardner, an aged friend,
 who is entirely blind; his company and conversation were savory.
 He and his daughter live together, to whom the language of encouragement flowed freely.
 
-While resting here at the house of his brother-in-law John Collins,
-he wrote a letter to his wife, from which the following is an extract:--
+[.offset]
++++[+++While resting here at the house of his brother-in-law John Collins,
+he wrote a letter to his wife, from which the following is an extract:]
 
 [.embedded-content-document.letter]
 --

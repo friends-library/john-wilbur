@@ -528,7 +528,8 @@ recommending these great truths to the practical observance of those present;
 this was a very crowded meeting, and was attended by three of the clergy.
 29th. E. Foster being unwell, we rested, and I wrote to my family.
 
-From this letter, the following extract is taken:--
+[.offset]
++++[+++From this letter, the following extract is taken:]
 
 [.embedded-content-document.letter]
 --
@@ -1012,7 +1013,8 @@ We were four days in travelling to New Lebanon;
 tarried two nights with our brother-in-law H. Mory,
 and attended Friends`' meeting at Chatham.
 
-The following is extracted from a letter which he wrote from New Lebanon to his wife:--
+[.offset]
++++[+++The following is extracted from a letter which he wrote from New Lebanon to his wife:]
 
 [.embedded-content-document.letter]
 --
