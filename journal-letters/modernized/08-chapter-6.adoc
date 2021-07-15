@@ -763,7 +763,7 @@ but not to report to that sitting,
 according to the heretofore invariable usage of Friends,
 but to their meeting three months from now!
 
-A similar address, 1 have since learned, was sent from Nantucket,
+A similar address, I have since learned, was sent from Nantucket,
 signed by fifteen Friends, and probably disposed of in the same manner.
 But does not the jeopardy and danger which awaits the Society
 by means of the spread of these baneful doctrines,
@@ -4119,6 +4119,7 @@ and I wish to be remembered to all my dear friends with you, as opportunity may 
 and when we are favored to approach the throne of Divine mercy,
 may our remembrance of each other be mutual.
 
+[.signed-section-closing]
 So I rest, I trust, in that which changes not,
 
 [.signed-section-closing]
@@ -5073,7 +5074,7 @@ my dear love salutes you and yours and all faithful
 Friends in your land in the Truth that is unchangeable;
 in which I remain your sympathizing and affectionate friend,
 
-[.letter-heading]
+[.signed-section-signature]
 Lydia A. Barclay.
 
 [.letter-heading]
@@ -5459,7 +5460,7 @@ in the faith of the ancient doctrines of Friends.
 And my desire and prayer is that we may not only keep the faith of the early Friends,
 but be favored to live such lives as they lived.
 
-[.signed-section-context-open]
+[.signed-section-context-close]
 Your ever sincere friend,
 
 [.signed-section-signature]
@@ -6600,7 +6601,7 @@ are very rapidly succeeded by others in their spirit.
 [.signed-section-closing]
 I remain, with dear love to you and wife,
 
-[.signed-section-signature]
+[.signed-section-closing]
 Your faithful friend,
 
 [.signed-section-signature]
@@ -6663,6 +6664,7 @@ Your nearly united friend,
 [.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.offset]
 +++[+++The person to whom the following letter was addressed,
 had since the commencement of the present troubles in our Society in New England,
 voluntarily introduced to the writer the subject of the disastrous
@@ -6673,6 +6675,7 @@ and was giving her strength and support to those
 who were sustaining said doctrines and their author,
 and had come to be in full fellowship with them.
 
+[.offset]
 This change in one whom he had esteemed and loved so well
 in the fellowship of that faith which changes not,
 produced in him a deep concern for her safe standing,

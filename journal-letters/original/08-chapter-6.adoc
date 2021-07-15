@@ -473,7 +473,7 @@ but great caution will be necessary.
 
 I that which I trust changeth not.
 
-sscñ
+[.signed-section-closing]
 I am thy friend,
 
 [.signed-section-signature]
@@ -666,7 +666,7 @@ John Wilbur.
 [.letter-heading]
 From Ann Jones to J. W.
 
-ssco
+[.signed-section-context-open]
 Stockport, 11th mo., 16th, 1841.
 
 [.salutation]
@@ -736,12 +736,16 @@ Farewell in the Lord.
 
 I am as ever, thy affectionately interested friend,
 
+[.signed-section-signature]
 Ann Jones.
 
+[.letter-heading]
 From J. W. to Thomas B. Gould.
 
+[.signed-section-context-open]
 Hopkinton, 15th of 2nd mo., 1842.
 
+[.salutation]
 My Dear Thomas,
 
 +++[+++After narrating the proceedings of the committee
@@ -762,7 +766,7 @@ but not to report to that sitting,
 according to the heretofore invariable usage of Friends,
 but to their meeting three months hence!
 
-A similar address, 1 have since learned, was sent from Nantucket,
+A similar address, I have since learned, was sent from Nantucket,
 signed by fifteen Friends, and probably disposed of in the same manner.
 But does not the jeopardy and danger which awaits the Society
 by means of the spread of these baneful doctrines,
@@ -864,12 +868,16 @@ whereby we have a right to expect it.
 In much love to yourselves and family as well as to all faithful Friends, I conclude,
 and am as ever in the fellowship of the everlasting gospel your friend,
 
+[.signed-section-signature]
 John Wilbur.
 
+[.letter-heading]
 From Lydia A. Barclay to J. W.
 
+[.signed-section-context-open]
 Reigate, 24th of 6th mo.. 1842.
 
+[.salutation]
 My Dear Friend,
 
 Thy last acceptable letter I received about the end of fourth mo.,
@@ -1245,12 +1253,16 @@ and if this is not permitted thee, the reward is sure hereafter,
 for it is promised in that everlasting kingdom,
 where all such trials and sufferings are forever excluded.
 
+[.signed-section-closing]
 Thy affectionate friend,
 
+[.signed-section-signature]
 George Crosfield.
 
+[.letter-heading]
 From J. W. to Alice Knight.
 
+[.signed-section-context-open]
 Hopkinton, 18th of 1st mo., 1843.
 
 Sometimes, my dear sister, in these seasons of deep depression and sore dismay,
@@ -1477,7 +1489,6 @@ and in proportion as they are permitted to be afflicted,
 will they be favored to joy and rejoice in the God of their salvation;
 blessed be his holy name forevermore!
 
-[.letter-heading]
 From thy friend and fellow-sufferer for the Truth`'s sake,
 
 [.signed-section-signature]
@@ -1549,7 +1560,7 @@ the Life, we may yet be strong as an army with the banners of Truth!
 [.signed-section-closing]
 Thy affectionate friend,
 
-[.letter-heading]
+[.signed-section-signature]
 Lydia A. Barclay.
 
 [.letter-heading]
@@ -1558,6 +1569,7 @@ From Ann Jones to J. W.
 [.signed-section-context-open]
 Stockport, 1st of 4th month, 1843.
 
+[.salutation]
 My Dear Friend and Brother in the Bonds and Tribulations
 of The Gospel of Jesus Christ our Lord--
 
@@ -3931,9 +3943,14 @@ and I desire to be endued yet more and more with Paul`'s noble spirit,
 who counted all but as dross and loss if so be he might win Christ and be found in him.
 Farewell, my dear friend, in near and dear love.
 
+[.signed-section-closing]
 I remain thy affectionate friend,
 
+[.signed-section-signature]
 Lydia A. Barclay.
+
+[.postscript]
+====
 
 P+++.+++ S.--Our coming Yearly Meeting looks and feels very awful,
 so that the prospect thereof weighs down some of our poor weak bodies.
@@ -3948,6 +3965,8 @@ but those who preach in the mixture can do no other than
 minister to the mixture and baptize into the mixture,
 and thus the evil disease, by the linsey-woolsey garment, is increased,
 and alas! is not the enemy`'s kingdom thereby promoted?
+
+====
 
 [.letter-heading]
 From Ezra Comfort to J. W.
@@ -4099,6 +4118,7 @@ and I wish to be remembered to all my dear friends with you, as opportunity may 
 and when we are favored to approach the throne of Divine mercy,
 may our remembrance of each other be mutual.
 
+[.signed-section-closing]
 So I rest, I trust, in that which changeth not,
 
 [.signed-section-closing]
@@ -4439,6 +4459,7 @@ From John Harrison to J. W.
 [.signed-section-context-open]
 Manchester, England, 10th mo., 3rd, 1846.
 
+[.salutation]
 My Dear Friend John Wilbur,
 
 In looking round the length and breadth of our Society, both in your land and ours,
@@ -4588,12 +4609,16 @@ and your righteousness brought forth as the morning and your judgment as the noo
 
 With the salutation of dear love, I remain thy nearly united and sympathizing friend,
 
+[.signed-section-signature]
 Lydia A. Barclay.
 
+[.letter-heading]
 From Christopher Healy to J. W.
 
+[.signed-section-context-open]
 Bucks County, Pennsylvania, 2nd of 6th mo., 1847.
 
+[.salutation]
 My Very Dear And Much Beloved Friend, John Wilbur,
 
 I received thy salutation of unfeigned love, a little while after our Yearly Meeting.
@@ -6637,6 +6662,7 @@ Thy nearly united friend,
 [.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.offset]
 +++[+++The person to whom the following letter was addressed,
 had since the commencement of the present troubles in our Society in New England,
 voluntarily introduced to the writer the subject of the disastrous
@@ -6647,6 +6673,7 @@ and was giving her strength and support to those
 who were sustaining said doctrines and their author,
 and had come to be in full fellowship with them.
 
+[.offset]
 This change in one whom he had esteemed and loved so well
 in the fellowship of that faith which changeth not,
 produced in him a deep concern for her safe standing,
@@ -6868,7 +6895,7 @@ or to embrace any matter of importance.]
 [.signed-section-context-open]
 Hopkinton, 10th mo., 1851.
 
-[.letter-heading]
+[.salutation]
 To Benjamin Seebohm, Respected Friend,
 
 When thou called at our house, thy time, as it appeared, did not admit, as I desired,
