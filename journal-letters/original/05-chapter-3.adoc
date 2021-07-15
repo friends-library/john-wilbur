@@ -324,8 +324,11 @@ we attended their meeting--dull and painful,
 on account of lukewarmness and carnal security in too many present;
 to whom an alarm was sounded near the conclusion of the meeting.
 After this meeting we went again to Stockport,
-and lodged at George Jones`'s. Here he wrote a letter
-to his family from which the following is an extract:--
+and lodged at George Jones`'s.
+
+[.offset]
++++[+++Here he wrote a letter
+to his family from which the following is an extract:]
 
 [.embedded-content-document.letter]
 --
@@ -1212,7 +1215,8 @@ and strength was admirably given to exalt the power of Christianity over
 all the forms and ceremonies practised among the professors of it;
 and my heart was filled with praise and thanksgiving to God for his unspeakable gifts.
 
-From this place he wrote as follows to his wife:--
+[.offset]
++++[+++From this place he wrote as follows to his wife:]
 
 [.embedded-content-document.letter]
 --
@@ -1629,7 +1633,8 @@ and my heart was lifted up with thanksgiving to the Lord.
 On second day, the 9th, had a meeting at Lewes, dined with John Rickman,
 and then went to Brighton, and attended the Select Quarterly Meeting the same evening.
 
-At this time he again wrote his wife as follows:--
+[.offset]
++++[+++At this time he again wrote his wife as follows:]
 
 [.embedded-content-document.letter]
 --
@@ -1989,7 +1994,9 @@ as two meetings were beforehand appointed, I could do no less than attend them;
 and in that in the evening, which was at Cheltenham,
 my burden and darkness began to be dispelled, and my tongue was loosed,
 and I seemed to myself like one raised from the dead; and it was a favored meeting.
-Here he wrote to his wife as follows:--
+
+[.offset]
++++[+++Here he wrote to his wife as follows:]
 
 [.embedded-content-document.letter]
 --
@@ -2107,7 +2114,8 @@ in power, rise much above the letter.
 Next day, went to Hammersmith, and attended their mid-week meeting--very small,
 but way opened for some instructive counsel, and we were, in the end, refreshed.
 
-The following letter was received about this time:--
+[.offset]
++++[+++The following letter was received about this time:]
 
 [.embedded-content-document.letter]
 --
@@ -2242,7 +2250,8 @@ in weeping for the backsliding of the sons and daughters of my people,
 occasioning the face of the Beloved to be so turned from us,
 in the day of our great necessity.
 
-From London he wrote to his wife and children as follows:--
+[.offset]
++++[+++From London he wrote to his wife and children as follows:]
 
 [.embedded-content-document.letter]
 --
@@ -2557,7 +2566,8 @@ At Plymouth we had a meeting with Friends, and labored much in a doctrinal way,
 open and satisfactory.
 Our next was, the same evening, at Tideford, very open and comfortable.
 
-From this place he wrote to his wife as follows:--
+[.offset]
++++[+++From this place he wrote to his wife as follows:]
 
 [.embedded-content-document.letter]
 --
@@ -2699,7 +2709,8 @@ and had an opportunity with the scholars the same evening; and next morning,
 first of the week, and 29th of 7th mo.
 attended their meeting, and was silent therein; but my companion had some service.
 
-The following is an extract from the letter above referred to:--
+[.offset]
++++[+++The following is an extract from the letter above referred to:]
 
 [.embedded-content-document.letter]
 --
@@ -2900,7 +2911,8 @@ that the state of things required the publication
 of such matter as is contained in these letters;
 and, with some revisal, it was thought best to publish them.
 
-While in this neighborhood he wrote as follows to his wife:--
+[.offset]
++++[+++While in this neighborhood he wrote as follows to his wife:]
 
 [.embedded-content-document.letter]
 --
@@ -2970,7 +2982,8 @@ as had been heretofore the case;
 and so I left the disposal of them to George Crosfield and other friends,
 to do as they thought best with the letters.
 
-About this time he received the following letter:--
+[.offset]
++++[+++About this time he received the following letter:]
 
 [.embedded-content-document.letter]
 --
@@ -3087,7 +3100,8 @@ and her resignation, were so satisfactory, I endeavored to restrain my grief,
 and to moderate my weeping for the loss of my dear child;
 and for the affliction of my dear wife and beloved children.
 
-On this occasion he wrote to his family as follows:--
+[.offset]
++++[+++On this occasion he wrote to his family as follows:]
 
 [.embedded-content-document.letter]
 --
@@ -3232,8 +3246,9 @@ the doctrine of Christ`'s outward coming,
 his character, offices, and sacrifice for sin,
 as well as of his inward and spiritual appearance.
 
-A letter was received about this time from Margaret Crosfield,
-from which the following is an extract:--
+[.offset]
++++[+++A letter was received about this time from Margaret Crosfield,
+from which the following is an extract:]
 
 [.embedded-content-document.letter]
 --
@@ -3387,7 +3402,8 @@ in the life and power of Truth.
 From hence, after parting with this interesting family, we went to Leeds, where,
 on the evening of the 15th, we had a meeting, much to my relief.
 
-While at Ackworth he wrote as follows to his wife and children:--
+[.offset]
++++[+++While at Ackworth he wrote as follows to his wife and children:]
 
 [.embedded-content-document.letter]
 --
@@ -3642,7 +3658,8 @@ Here we lodged with Dykes Alexander.
 Next day, we went to Sudbury, and had an evening meeting with Friends,
 to good satisfaction; and here we stayed awhile and wrote.
 
-At this time the following letter was received:--
+[.offset]
++++[+++At this time the following letter was received:]
 
 [.embedded-content-document.letter]
 --
@@ -3853,7 +3870,8 @@ and had a meeting in the evening with the town`'s-people;
 in both which I was largely engaged in declaring the word of life,
 revealed in the gospel.
 
-From this place he wrote to his wife as follows:--
+[.offset]
++++[+++From this place he wrote to his wife as follows:]
 
 [.embedded-content-document.letter]
 --
@@ -4275,6 +4293,7 @@ I was gone from home one year, eight months and ten days,
 but remained in the United Kingdom only one year and about six months, or 545 days,
 so that, on an average, I attended a meeting for every day.
 
+[.offset]
 +++[+++The following letters from several dear friends in England were
 written on the eve of J. W.`'s departure from that country,
 at the termination of his arduous service there; and having especial reference thereto,

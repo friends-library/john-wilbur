@@ -761,7 +761,7 @@ Croydon, near London, 6th mo.
 3rd, 1834.
 
 [.salutation]
-My Dear Friend J. W.
+My Dear Friend J. W.,
 
 I cannot help feeling it due to thee affectionately
 to assure thee of our near love and unity,
@@ -1016,8 +1016,9 @@ George Crosfield.
 
 --
 
-Extract of a letter from James Backhouse, of York, dated at Hobartown,
-in Van Diemen`'s Land, 10th mo., 12th, 1833, and received at York, 4th mo., 3rd, 1834.
+[.offset]
++++[+++Extract of a letter from James Backhouse, of York, dated at Hobartown,
+in Van Diemen`'s Land, 10th mo., 12th, 1833, and received at York, 4th mo., 3rd, 1834.]
 
 [.embedded-content-document.letter]
 --
@@ -2405,7 +2406,8 @@ John Wilbur.
 
 --
 
-Extract from a letter from Sarah +++[+++Lynes]
+[.offset]
++++[+++Extract from a letter from Sarah +++[+++Lynes]
 Grubb to Ann Coning, transmitted by the latter to John Wilbur, dated 24th of 6th mo.,
 1837.
 
