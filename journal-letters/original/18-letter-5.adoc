@@ -1,5 +1,6 @@
-== Letter V. On the Holy Scriptures.
+== Letter V. / On the Holy Scriptures.
 
+[.salutation]
 My Dear Friend,
 
 It will be seen by every rational well-informed mind,
@@ -63,27 +64,38 @@ when the coincidence will be readily seen.
 But though Robert Barclay has clearly and unanswerably demonstrated this,
 I would suggest the following queries for the consideration of all inquirers:--
 
-1st. Can the Scriptures, or did they ever, save any one without the spirit?
+[.numbered-group]
+====
 
-2nd. Is a person called to the work of the ministry by the Scriptures,
+[.numbered]
+_1st._ Can the Scriptures, or did they ever, save any one without the spirit?
+
+[.numbered]
+_2nd._ Is a person called to the work of the ministry by the Scriptures,
 or by the spirit of Jesus Christ?
 
-3rd. Is a man brought under a concern to go from
+[.numbered]
+_3rd._ Is a man brought under a concern to go from
 one place to another to preach the gospel,
 by the Scriptures, or by the constraining power of the spirit and love of Jesus Christ?
 
-4th. And when he is arrived at the place assigned, and is assembled with the people,
+[.numbered]
+_4th._ And when he is arrived at the place assigned, and is assembled with the people,
 is it not the spirit of Christ that truly unfolds the Scriptures,
 and brings to view the state of men, either in the words of Scripture,
 or in some other suitable language?
 
-5th. And when a professed minister preaches in any of our meetings,
+[.numbered]
+_5th._ And when a professed minister preaches in any of our meetings,
 his doctrines not being repugnant to the letter of the Scriptures,
 are the elders or others to judge by the Scriptures, or by the Spirit of Truth,
 whether his ministry is from the right spring or not?
 
-6th. Did not the Jews think they had eternal life in the Scriptures
+[.numbered]
+_6th._ Did not the Jews think they had eternal life in the Scriptures
 and yet would not come unto Christ that they might have life?
+
+====
 
 Finally, Christ the Lord, is the minister and leader of his people,
 (others as well as ministers,) for they do believe the truth of his gracious words,

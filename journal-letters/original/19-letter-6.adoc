@@ -1,5 +1,6 @@
-== Letter VI. On Plainness and Self-Denial.
+== Letter VI. / On Plainness and Self-Denial.
 
+[.salutation]
 My Dear Friend,
 
 My mind has often been brought into much painful exercise on account of the many
@@ -180,4 +181,5 @@ and he will encamp round about him;
 and his righteousness shall "`go forth as brightness`"
 and his "`salvation as a lamp that burneth!`"
 
+[.the-end]
 The End.
