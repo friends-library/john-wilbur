@@ -83,6 +83,7 @@ On the 12th we went to Providence, visited Friends`' Boarding School,
 and had a religious opportunity with the superintendents, instructors,
 and children collectively, to good satisfaction.
 
+[.offset]
 +++[+++By the remaining memoranda of this visit,
 it appears that they went homeward from Providence, taking several meetings on their way,
 and appointing some among those not Friends; which were to good satisfaction,
@@ -154,9 +155,13 @@ acting as an inward teacher,
 showing the insufficiency of outward forms in effecting the work of true renovation;
 and in conclusion I was favored in fervent supplication.
 
-At Gilmanton he wrote to his wife and children as follows:--
+[.offset]
++++[+++At Gilmanton he wrote to his wife and children as follows:]
 
-"`We arrived here about 8 o`'clock last evening,
+[.embedded-content-document.letter]
+--
+
+We arrived here about 8 o`'clock last evening,
 and put up at the house of our kind friend Ezekiel Hoyt,
 with whom I had before been acquainted.
 Two days after leaving Lynn, we arrived at Weare,
@@ -173,7 +178,9 @@ yet as I have experienced help, so far as I have gone,
 to be mercifully afforded in the needful time,
 I dare not cherish a disposition to despair of its continuation; so I commit myself,
 with all that is near and dear, to his holy care and keeping,
-desiring that He may preserve us all in the way which will lead to an immortal crown.`"
+desiring that He may preserve us all in the way which will lead to an immortal crown.
+
+--
 
 First day, 12th. Attended Friends`' Meeting at Concord, which, though small,
 was in a good degree favored.
@@ -249,9 +256,13 @@ Here we had a highly favored meeting, wherein the fall of man,
 and his restoration and redemption through our Lord Jesus Christ,
 were pretty fully set forth.
 
-The following is an extract from a letter to his wife written at this place:--
+[.offset]
++++[+++The following is an extract from a letter to his wife written at this place:]
 
-"`Since I last wrote thee at Gilmanton we have attended a number of meetings,
+[.embedded-content-document.letter]
+--
+
+Since I last wrote thee at Gilmanton we have attended a number of meetings,
 the distance between some of which was a day`'s ride.
 The travelling has been bad, occasioned by the snow,
 the melting of which now makes the ways rather heavy;
@@ -264,7 +275,9 @@ I have not the least reason to doubt but my being here is in the ordering of Tru
 and indeed best help has been mercifully extended;
 and as I have endeavored to keep low and humble, I have, to my own admiration,
 received a gracious supply of help, in which I have been favored with mouth and wisdom,
-tongue and utterance; for which all the praise is everlastingly due to the great Giver.`"
+tongue and utterance; for which all the praise is everlastingly due to the great Giver.
+
+--
 
 In the afternoon we went to Leeds, a distance of twelve miles, and lodged.
 25th. Had a painful meeting here,
@@ -312,15 +325,19 @@ and I believe to my friends`' satisfaction.
 We dined with our dear friend John Warren at his house,
 and rode this evening fifteen miles, to Moses Sleeper`'s.
 
-From Vassalborough he wrote to his wife and children as follows:--
+[.offset]
++++[+++From Vassalborough he wrote to his wife and children as follows:]
 
-"`I have yet had no information from home since I left,
+[.embedded-content-document.letter]
+--
+
+I have yet had no information from home since I left,
 which has occasioned some uneasiness; I wrote home from Lewistown,
 and have since had many meetings in this section,
 and having readied the extreme point of our prospect, have set our faces homeward.
 We were yesterday at Fairfax and dined with our beloved friend John Warren.
 
-"`We are in tolerable health, but have been often heavy-hearted since I last wrote,
+We are in tolerable health, but have been often heavy-hearted since I last wrote,
 partly occasioned by an account brought from Providence by a Friend at Leeds of an accident
 which he heard happened at the former place the seventh day after our Quarterly Meeting;
 from which and some other circumstances,
@@ -335,7 +352,9 @@ yet as I have endeavored to submit all to the Divine disposal,
 and give up to make whatever sacrifice my Master may require,
 I have found his gracious hand to be my support,
 and his help to be near at those seasons when I was brought
-to the work of turning the battle to the gate.`"
+to the work of turning the battle to the gate.
+
+--
 
 12th mo.
 4th. We took leave of our friends at Vassalborough, and resumed our travels by chaise;
@@ -439,9 +458,13 @@ but after getting a little settled, I had good service therein.
 which we attended to good satisfaction, and in this and the day following,
 visited some relatives in that vicinity.
 
-Here he wrote to his wife as follows:--
+[.offset]
++++[+++Here he wrote to his wife as follows:]
 
-"`We arrived the day before yesterday at Portland,
+[.embedded-content-document.letter]
+--
+
+We arrived the day before yesterday at Portland,
 where I found a letter from thee for the first time, dated 15th, of 11th mo.
 I had prepared my mind as well as possible to hear the worst,
 and how was I rejoiced to find that you were then all in usual health;
@@ -456,7 +479,9 @@ as at the present, has caused my cup to overflow with his precious love.
 We are now in good health, for us, for which I desire to be truly thankful;
 and may that Hand which hath hitherto helped us, be thy support,
 bear up thy mind through every conflict and keep
-thee and the children under his gracious protection.`"
+thee and the children under his gracious protection.
+
+--
 
 First day, 17th. Attended Friends`' Meeting at Falmouth,
 and many other people being notified, attended also;
@@ -710,10 +735,14 @@ On the same evening, we made a little visit to Sylvanus Gardner, an aged friend,
 who is entirely blind; his company and conversation were savory.
 He and his daughter live together, to whom the language of encouragement flowed freely.
 
-While resting here at the house of his brother-in-law John Collins,
-he wrote a letter to his wife, from which the following is an extract:--
+[.offset]
++++[+++While resting here at the house of his brother-in-law John Collins,
+he wrote a letter to his wife, from which the following is an extract:]
 
-"`I have in the course of this visit experienced some seasons of great depression,
+[.embedded-content-document.letter]
+--
+
+I have in the course of this visit experienced some seasons of great depression,
 and trial of faith;
 wherein I have had sometimes to marvel that I should be out on such a service as this;
 and again I have been renewed, and have appeared a little to myself,
@@ -723,7 +752,9 @@ and a regulating balance upon the mind.
 It is now three weeks since I left,
 and getting round so far has taken rather less time than I expected;
 but how much time may be required to perform the service before me, is yet uncertain.
-I affectionately greet you all, with breathing desires for your preservation every way.`"
+I affectionately greet you all, with breathing desires for your preservation every way.
+
+--
 
 Seventh day, 4th. Went in company with brother J. C. and wife to Ghent,
 and lodged at Nathan Collins`'s; here we had a favored meeting next day.
