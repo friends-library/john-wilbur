@@ -1,5 +1,6 @@
 == Letter I. Introductory.
 
+[.salutation]
 My Dear Friend,
 
 I have often recurred, with a degree of satisfaction to my early impressions,
