@@ -2749,8 +2749,8 @@ the Friend said it was very clear that the discipline had not been kept to,
 for the Monthly Meeting not only had not refused to appeal,
 but the Quarterly Meeting had given us information that it had actually appealed.
 
-[quote]
-____
+[.embedded-content-document]
+--
 
 [.centered]
 Discipline,
@@ -2799,7 +2799,8 @@ they shall be at liberty to appeal against the Quarterly Meeting to the Yearly M
 and until such appeal is heard and determined,
 the Friends added by the Quarterly Meeting to them, shall be deemed their members.
 1743.
-____
+
+--
 
 The clerk was requested to read the "`appeal,`" a copy of which was in his hands,
 and several Friends expressed a wish to have it read,
