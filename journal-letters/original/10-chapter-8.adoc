@@ -29,11 +29,17 @@ my second son Amos 100. Wilbur, gave up his business for the time,
 and kindly consented to be my companion and sharer
 in the tribulations attendant on such an undertaking.
 
-The following letter was received from his friend Lydia A Barclay,
-before he left home on this important visit:--
+[.offset]
++++[+++The following letter was received from his friend Lydia A Barclay,
+before he left home on this important visit:--]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Aberdeen, 6th of 7th mo., 1853.
 
+[.salutation]
 My Dear And Valued Friend John Wilbur,
 
 Thy last letter, this week, has greatly comforted me,
@@ -58,9 +64,13 @@ Oh! I earnestly crave, if consistent with the divine will,
 that thy bodily health may be kept up amidst it all,
 for I know how greatly it is affected by suffering of mind.
 
+[.signed-section-closing]
 Thy nearly united and affectionate friend,
 
+[.signed-section-signature]
 Lydia A. Barclay.
+
+--
 
 We went on board the steamship Niagara at Boston, under the command of Captain Leitch,
 which left that port on the 28th of 9th mo., 1853,
@@ -431,8 +441,13 @@ to which I replied that I could freely subscribe to this.
 Not having fully relieved my mind whilst with these friends,
 I wrote them from Dorking as follows:--
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Dorking, 10th mo., 30th, 1853.
 
+[.salutation]
 My Dear Friends Daniel P. And Eliza Hack,
 
 We hardly feel satisfied to get entirely away from your quarter without acknowledging
@@ -516,7 +531,10 @@ and strangers shall stand and feed the flocks.`"
 Greatly desiring your present and everlasting good I subscribe
 myself your real and much interested friend.
 
+[.signed-section-signature]
 John Wilbur.
+
+--
 
 On seventh day, the 29th of 10th month, we came to John Cheal`'s, near Ifield,
 and lodged, and next day he and wife took us to Capel Meeting,
@@ -625,9 +643,14 @@ and drew them out to a full confession of their unity with J. J. Gurney and his 
 and they hesitated not to defend some of the most absurd of them, which I quoted,
 but pretty soon, Robert desired that I would quote no more!
 
-The following is a copy of the Minute referred to:--
+[.offset]
++++[+++The following is a copy of the Minute referred to:--]
 
-At a Meeting for Sufferings, held 4th of 11th mo., 1853.
+[.embedded-content-document.minute]
+--
+
+[.blurb]
+=== At a Meeting for Sufferings, held 4th of 11th mo., 1853.
 
 This meeting thinks it proper to remind Friends in the different parts of the nation,
 that in the year 1829, a minute was adopted by our Yearly Meeting,
@@ -663,9 +686,13 @@ will carefully refrain from admitting John Wilbur into our Meetings for Discipli
 or accepting him either in our meetings for worship,
 or in our families in the character of a minister.
 
+[.signed-section-closing]
 Signed on behalf of the meeting,
 
+[.signed-section-signature]
 Robert Forster, Clerk.
+
+--
 
 On first day, 6th, we went to Devonshire House Meeting,
 where an openness to receive us was seen and felt,
@@ -732,11 +759,17 @@ and no marvel, for they have opened a wide door for it;
 and themselves are going off the stage of action, so that, by and by,
 there may be none left to oppress the honest-hearted.
 
-The following letter from Lydia A. Barclay, to his daughter at home,
-gives some further account of his trials and services at this time:--
+[.offset]
++++[+++The following letter from Lydia A. Barclay, to his daughter at home,
+gives some further account of his trials and services at this time:--]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Aberdeen, 10th of 11th mo., 1853.
 
+[.salutation]
 My Dear Friend,
 
 Thy dear father is in the Lord`'s holy keeping I cannot doubt,
@@ -828,9 +861,13 @@ My cry is daily for his help and preservation,
 and I have a humble trust it will not go unanswered, to the ears of the Lord of Sabaoth,
 who is pitiful, tender, and all powerful.
 
+[.signed-section-closing]
 Thy sincere and affectionate friend,
 
+[.signed-section-signature]
 Lydia A. Barclay.
+
+--
 
 On sixth day went to Sudbury, and lodged at John King`'s,
 and on first day attended their meetings.
@@ -905,10 +942,16 @@ and it was a very solemn time.
 My Circular letter before alluded to having been printed at Manchester,
 it was now forwarded to persons in most parts of the nation.
 
-The following is a copy of the same:--
+[.offset]
++++[+++The following is a copy of the same:--]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Manchester, 12th Month, 1853.
 
+[.salutation]
 Dear Friend,
 
 It is evident from a document recently put in circulation
@@ -1117,9 +1160,13 @@ and this controversy, far from tending to scatter the faithful,
 unites them in the great work of maintaining that
 holy "`faith once delivered unto the saints.`"
 
+[.signed-section-closing]
 I remain, with love, thy friend,
 
+[.signed-section-signature]
 John Wilbur.
+
+--
 
 On fifth day, after a solid,
 melting opportunity with a considerable number of dear and precious Friends at Bakewell,
@@ -1386,11 +1433,17 @@ After meeting, several Friends came and spoke very kindly to us,
 desiring our company at their houses, but as we were bound to Moat the same afternoon,
 we could not now comply with their invitation.
 
+[.offset]
 +++[+++Before leaving for Ireland, he received the following letter from John Pease,
 to whom his Circular had been sent; and the succeeding reply was written from Dublin.]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 East Mount Darlington, 12th mo., 16th, 1853.
 
+[.salutation]
 Respected Friend, John Wilbur,
 
 I have received thy printed letter, dated at Manchester, 12th month of this year.
@@ -1449,9 +1502,14 @@ hast been long warring under very mistaken feelings;
 and much desire that thou mayest at once lay down thy arms and
 finally obtain peace through our Lord and Saviour Jesus Christ.
 
+[.signed-section-closing]
 Thy sincere friend,
 
+[.signed-section-signature]
 John Pease.
+
+[.postscript]
+====
 
 This letter is not written to provoke either controversy or extended correspondence,
 which I should decline;
@@ -1459,10 +1517,20 @@ but as an honest reply to what I accept as an honest letter from thee.
 
 I am authorized by my beloved father to say that he entirely unites in this letter.
 
-Reply To The Foregoing Letter:--
+====
 
+--
+
+[.offset]
++++[+++Reply To The Foregoing Letter:]
+
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Dublin, 1st month, 12th, 1854.
 
+[.salutation]
 Friend John Pease,
 
 Thy letter of 12th mo., 16th, was duly received,
@@ -1494,7 +1562,7 @@ had no occasion for cavilling,
 or for perverting the plain and true meaning of the Holy Scriptures,
 because in the Truth there are no evasions, turnings, or windings,
 in the demonstration of its principles.
-But J. J. G. strives in his Brief Remarks to make his readers believe that all the apostle
+But J. J. G. strives in his _Brief Remarks_ to make his readers believe that all the apostle
 meant by the expression "`Christ in you,`" was the incarnation of Christ,
 or God manifested in the flesh.
 To quote his own words: "`The plain fact, however, appears to be,
@@ -1613,9 +1681,14 @@ in such manner as that thou mayest clearly see the mystery of iniquity,
 whereby the enemy is striving to turn this people
 back again to the house whence they came out.
 
+[.signed-section-closing]
 Thy friend and well-wisher,
 
+[.signed-section-signature]
 John Wilbur.
+
+[.postscript]
+====
 
 Note.--Instead of proving J. J. G. to be sound by quoting his doctrines,
 thou hast brought to view the vague sentiments of his votaries;
@@ -1630,6 +1703,10 @@ declared his doctrines to be as different from those of
 the Society of Friends as Calvinism is different from Arminianism;
 and this he said without expressing his assent to,
 or dissent from either of those extremes.
+
+====
+
+--
 
 We went by rail, after sunset, sixty-eight miles, to Moate,
 where our dear friend John G. Sargent met us, and took us five miles further,
@@ -1858,12 +1935,18 @@ in which hope my joy is full, and sweet peace my unmerited portion;
 and the language of the Psalmist is my inward song, "`Give thanks unto the Lord,
 O my soul, for his mercy endureth forever!`"
 
+[.offset]
 +++[+++The following letter written soon after his return from this visit,
 will serve further to show the feeling of satisfaction
 and peace with which he looked on it in the retrospect.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From J. W. to William Hodgson, Jr.
 
+[.signed-section-context-open]
 Hopkinton, 5th mo., 13th, 1854.
 
 Although, my dear friend, I do sometimes nearly come to want, and necessarily so,
@@ -1913,14 +1996,19 @@ were not withheld on any occasion when labor was required.
 In much near and affectionate love to thyself, and family,
 and to all dear inquiring friends, as if named, I conclude, and am thy friend,
 
+[.signed-section-signature]
 John Wilbur.
 
+--
+
+[.offset]
 +++[+++After the accomplishment of this last visit to Great Britain,
 calmness and peace were eminently the clothing of his spirit;
 yet his solicitude for the preservation of Friends upon the ancient Foundation
 continued unabated--being manifested by visiting some and writing to others,
 under the constraining influence of the love of Christ
 
+[.offset]
 He kept no further record or journal of his life,
 but feeling that his labors and trials were nearly concluded,
 he calmly awaited the summons from works to rewards with an unfaltering
@@ -1929,4 +2017,5 @@ After a short illness, he died in great peace on the 1st of 5th month, 1856,
 at the house of his son-in-law, Thomas Foster,
 with whom he resided after the death of his beloved companion in 1852.]
 
-The following memorial concerning him was issued by South Kingston Monthly Meeting:--
+[.offset]
++++[+++The following memorial concerning him was issued by South Kingston Monthly Meeting:]
