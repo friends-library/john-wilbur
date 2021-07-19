@@ -656,6 +656,7 @@ and he will preside over and order his own cause, and finally give us the victor
 My wife and family join me in much dear love to yourself, husband and family,
 and to all our dear faithful Friends in your quarter.
 
+[.signed-section-closing]
 Farewell.
 
 [.signed-section-signature]
@@ -731,6 +732,7 @@ when its blessed author leads into the field--the armor kept on in brightness,
 waiting the word of command to go forth, or to stand still, then we have nothing to fear.
 Farewell in the Lord.
 
+[.signed-section-closing]
 I am as ever, your affectionately interested friend,
 
 [.signed-section-signature]
@@ -942,6 +944,7 @@ also at another at p. 44, 45,
 fearing it might discourage parents from bringing up their children consistently.
 I fear he is not so wholly come round to ancient views as could be wished.
 
+[.signed-section-closing]
 I remain your truly sympathizing and nearly united friend,
 
 [.signed-section-signature]
@@ -1564,9 +1567,9 @@ From Ann Jones to J. W.
 [.signed-section-context-open]
 Stockport, 1st of 4th month, 1843.
 
-[.salutation]
+[.offset]
 My Dear Friend and Brother in the Bonds and Tribulations
-of The Gospel of Jesus Christ our Lord--
+of The Gospel of Jesus Christ our Lord:
 
 Although men may separate you from their company,
 may reject and deny you the privileges of a minister
@@ -1903,8 +1906,9 @@ in an unsanctified manner,
 but the Lord will make a breach among them in his own time,--they never will
 be permitted to bring the ark to its place which God has appointed for it,
 by the course they are pursuing.
-
 Farewell, my dear friend in the Lord.
+
+[.signed-section-closing]
 I remain yours.
 
 [.signed-section-signature]
@@ -2904,8 +2908,9 @@ May the Lord increase their number, and strengthen their hands,
 to work effectually in his vineyard;
 so that our eyes fail not in weeping for those who are gathered home,
 or rather for the loss of them, from their ranks in the Lord`'s army!
-
 Farewell.
+
+[.signed-section-closing]
 From your affectionate, though tribulated friend,
 
 [.signed-section-signature]
@@ -6285,6 +6290,7 @@ and has blessed the work in your hands,) until he grant you from Pisgah`'s mount
 to view the length and breadth of all the land he has given you,
 and conduct you in peace over Jordan.
 
+[.signed-section-closing]
 Your truly attached sympathizing friend and sister,
 
 [.signed-section-signature]
@@ -6664,7 +6670,6 @@ Your nearly united friend,
 [.signed-section-signature]
 L+++.+++ A. Barclay.
 
-[.offset]
 +++[+++The person to whom the following letter was addressed,
 had since the commencement of the present troubles in our Society in New England,
 voluntarily introduced to the writer the subject of the disastrous
@@ -6675,7 +6680,6 @@ and was giving her strength and support to those
 who were sustaining said doctrines and their author,
 and had come to be in full fellowship with them.
 
-[.offset]
 This change in one whom he had esteemed and loved so well
 in the fellowship of that faith which changes not,
 produced in him a deep concern for her safe standing,
@@ -6814,6 +6818,7 @@ which have so sorrowfully divided us in Jacob and scattered us in Israel.
 
 I should be truly glad to hear from you and how it is with you every way.
 
+[.signed-section-closing]
 From your affectionate friend and true well wisher,
 
 [.signed-section-signature]
