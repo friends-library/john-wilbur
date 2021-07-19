@@ -2,7 +2,7 @@
 == Chapter VII. Visits in Pennsylvania, New Jersey, and New York, in 1852 and 1853, and Further Correspondence.
 
 My account of the proceedings of New England Yearly Meeting and its committees,
-from 1840 to 1845, recorded in a book entitled A Narrative and Exposition, etc.,
+from 1840 to 1845, recorded in a book entitled [.book-title]#A Narrative and Exposition, etc.,#
 gives a plain statement of the trials and sufferings which I endured for that time,
 from the hands of false brethren,
 because of my conscientiously bearing testimony against the unsound
@@ -236,8 +236,13 @@ all to good satisfaction.
 On the same evening I returned to the city, and, after due examination,
 sent my letter to the Friend, as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Frankford, 3rd mo., 17th, 1852.
 
+[.salutation]
 To My Dear Friend, +++_______+++ +++_______+++,
 
 Not having contemplated going into the subject which thou introduced
@@ -321,7 +326,11 @@ we believe that they continue to be entitled to the rights of membership,
 and to such acknowledgment by their brethren as may be necessary
 for securing the enjoyment of those rights.`"
 
-First, then,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ then,
 I might remark that the manner of this separation
 was not contrived by any concert of our people,
 but as way appeared to be made for it, by the hand of a gracious Providence,
@@ -339,7 +348,8 @@ in those cases where the Lord`'s people had lapsed into great error,
 that we behold the variety of ways which he has devised for the deliverance
 of those who feared him from those who were involved in error and darkness.
 
-Second, "`that they continue to be entitled to the rights of membership,
+[.numbered]
+_Second,_ "`that they continue to be entitled to the rights of membership,
 and to such acknowledgment by their brethren as may be necessary
 for securing the enjoyment of those rights.`"
 This we understand not to have been said to those of the
@@ -349,6 +359,8 @@ to be (as they had been) members of the Society,
 and entitled to the rights of membership,
 and to such acknowledgment by their brethren as may be necessary
 for securing the enjoyment of those rights.
+
+====
 
 We understand that when this case was submitted to the Meeting for Sufferings,
 it was for the purpose of so inquiring into the facts and
@@ -376,9 +388,13 @@ how long would thou be disposed to hesitate in the
 awarding of justice to the smaller number,--and that,
 without looking at consequences that might or might not follow?
 
+[.signed-section-closing]
 From thy friend,
 
+[.signed-section-signature]
 John Wilbur.
+
+--
 
 After writing the foregoing letter I felt easy to go forward,
 and to propose the appointment of meetings when they did not come in course;
@@ -620,7 +636,11 @@ and nearly felt by me at this time, the 28th of 7th mo., 1853.
 +++[+++The following Testimony concerning this dear friend issued by South Kingston
 Monthly Meeting is deemed worthy of a place in this Volume.]
 
-Testimony of South Kingston Monthly Meeting concerning Lydia Wilbur, deceased.
+[.embedded-content-document.testimony]
+--
+
+[.blurb]
+=== Testimony of South Kingston Monthly Meeting concerning Lydia Wilbur, deceased.
 
 Our beloved friend, Lydia Wilbur, wife of John Wilbur, was born in Stonington,
 Connecticut, 22nd of fourth month, 1778.
@@ -650,8 +670,10 @@ and Ireland will serve to show the state of her mind at that time,
 and the near unity and sympathy she felt with him
 in his gospel labors and travels in that land.
 
-Second mouth, 9th, 1832.
-"`I can salute thee in the love that first united us together,
+[quote]
+____
+_Second mouth, 9th, 1832._
+I can salute thee in the love that first united us together,
 and I trust will always remain,
 and I desire that the preserving Hand that has been with
 thee may still continue to be with thee in all thy trials,
@@ -665,7 +687,7 @@ a little to rejoice that I have been permitted to take the care at home,
 while my dear husband is so exposed for the peace
 of his own mind and the good of the precious cause.`"
 
-Third month, 7th, 1832.
+_Third month, 7th, 1832._
 "`I believe we have all tried to do the best we could in thy absence,
 although I sometimes feel closely tried with the
 thought of being so long separated from thee,
@@ -679,7 +701,7 @@ and that the feet of thy mind may stand sure on that Rock where there is safety.
 I greatly desire for myself that I may keep in this safe place;
 but I feel my unworthiness and the need of thy help and prayers for my preservation.`"
 
-Eighth month, 25th, 1832.
+_Eighth month, 25th, 1832._
 "`I think my health is as good as I could expect amid my trials and afflictions,
 which have been many.
 My trust has been in the Lord alone, and blessed be his name,
@@ -693,7 +715,8 @@ which has been meted out to us no doubt for our good.^
 footnote:[Referring to the death of a beloved daughter, an account of which,
 by another hand, accompanied this letter.]
 How pleasant it would be to have the sweet company of a beloved companion at this time;
-but I dare not ask for it until thou feels released from that land.`"
+but I dare not ask for it until thou feels released from that land.
+____
 
 The singular and varied trials of her beloved husband,
 during the latter part of his life,
@@ -742,14 +765,24 @@ we feel this language of our Lord and Saviour to be peculiarly applicable in her
 Signed by direction and on behalf of South Kingston Monthly Meeting of Friends,
 held at Hopkinton 23rd of third month, 1857.
 
+[.signed-section-signature]
 Ethan Foster, Clerk.
 
+[.signed-section-signature]
 Ann Perry, Clerk.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From Lydia A. Barclay to John Wilbur.
 
+[.signed-section-context-open]
 Aberdeen, 24th of 8d mo., 1852.
 
+[.salutation]
 My Dear And Valued Friend,
 
 Thy favor of the 9th of last month came to hand the first of this,
@@ -849,14 +882,24 @@ I shall feel greatly interested in hearing about the dear
 and tried Friends (sound ones I mean) of New York,
 to whom my soul seems to reach forth in many secret and fervent breathings.
 
+[.signed-section-closing]
 Thy nearly united friend,
 
+[.signed-section-signature]
 Lydia A. Barclay.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From J. W. to William Evans.
 
+[.signed-section-context-open]
 Hopkinton, 5th mo., 22nd, 1852.
 
+[.salutation]
 My Dear Friend William Evans,
 
 However incompetent I am to do justice to a subject which has impressed my mind
@@ -1041,12 +1084,21 @@ Yearly Meeting can do in the present state of things,
 and how his loyalty to the Truth will redound to his own present peace,
 as well as to his future joy and consolation.
 
+[.signed-section-closing]
 From thy true friend,
 
+[.signed-section-signature]
 John Wilbur.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From Lydia A. Barclay to J. W.
 
+[.signed-section-context-open]
 Aberdeen, 26th of 6th mo., 1852.
 
 I speak of the pleasure and comfort of thy letters, but my dear friend,
@@ -1114,12 +1166,21 @@ May the Lord preserve us purely to his praise,
 and grant us a little place of rest within the pearl gates at the end,
 is the earnest breathing of thy affectionate and united friend,
 
+[.signed-section-signature]
 Lydia A. Barclay.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From The Same.
 
+[.signed-section-context-open]
 Aberdeen, 29th of 11th mo., 1852.
 
+[.salutation]
 My Dear Friend,
 
 Thy remarks on the proceedings of our last Yearly Meeting are very just; there is indeed,
@@ -1175,18 +1236,26 @@ but that many more who are wavering might flock to it!
 I cannot but feel the prophecy of Sarah Grubb in 1820, is fast fulfilling,
 that we shall not be to be distinguished from the many other sects or horns of profession,
 which are pushing in various ways against the Truth, and in some cases,
-against each other
+against each other also.
 
-also.
-
+[.signed-section-closing]
 Thy affectionate friend,
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From The Same.
 
+[.signed-section-context-open]
 Aberdeen, 7th of 2nd mo., 1853.
 
+[.salutation]
 My Dear And Valued Friend,
 
 I unite with thee in regard to a coming out from those who are not true ancient Friends;
@@ -1243,7 +1312,10 @@ and be as a crown to thy sacrifice!
 
 In dear love and sympathy, I remain thy hearty friend,
 
+[.signed-section-signature]
 Lydia A. Barclay.
+
+--
 
 Having had drawings in my mind for a considerable length of time,
 to pay a religious visit to Friends and others in
