@@ -418,6 +418,7 @@ whose right it is to sway his sceptre in the hearts of the children of men,
 and whose dominion is forever and ever.
 Amen.`"
 
+[.signed-section-closing]
 I remain thy nearly united and affectionate friend,
 
 [.signed-section-signature]
@@ -471,6 +472,7 @@ if these have good ground and are furnished with the sure anchor of God`'s Provi
 I have not yet been off the bed, but hope I shall be able to do so in a week more,
 but great caution will be necessary.
 
+[.signed-section-closing]
 I that which I trust changeth not.
 
 [.signed-section-closing]
@@ -658,6 +660,7 @@ and he will preside over and order his own cause, and finally give us the victor
 My wife and family join me in much dear love to thyself, husband and family,
 and to all our dear faithful Friends in your quarter.
 
+[.signed-section-closing]
 Farewell.
 
 [.signed-section-signature]
@@ -734,6 +737,7 @@ when its blessed author leads into the field--the armor kept on in brightness,
 waiting the word of command to go forth, or to stand still, then we have nothing to fear.
 Farewell in the Lord.
 
+[.signed-section-closing]
 I am as ever, thy affectionately interested friend,
 
 [.signed-section-signature]
@@ -1489,6 +1493,7 @@ and in proportion as they are permitted to be afflicted,
 will they be favored to joy and rejoice in the God of their salvation;
 blessed be his holy name forevermore!
 
+[.signed-section-closing]
 From thy friend and fellow-sufferer for the Truth`'s sake,
 
 [.signed-section-signature]
@@ -1906,8 +1911,9 @@ in an unsanctified manner,
 but the Lord will make a breach amongst them in his own time,--they never will
 be permitted to bring the ark to its place which God has appointed for it,
 by the course they are pursuing.
-
 Farewell, my dear friend in the Lord.
+
+[.signed-section-closing]
 I remain thine.
 
 [.signed-section-signature]
@@ -2944,6 +2950,7 @@ and they even say so to some of us to our grief!
 So that we may truly say, "`Truth is fallen in our streets,
 and righteousness cannot enter!`"
 
+[.signed-section-closing]
 I am, in the fellowship of the gospel, thy affectionate friend,
 
 [.signed-section-signature]
@@ -3289,6 +3296,7 @@ through living faith in the all-conquering power of his well-beloved Son,
 our holy Redeemer, to whom, with the Father, belong glory and honor,
 thanksgiving and praise.
 
+[.signed-section-closing]
 In the bonds and fellowship of the gospel of peace, farewell.
 
 [.signed-section-signature]
@@ -4494,6 +4502,7 @@ and I suppose for purposes we cannot scrutinize,
 must be permitted to rule and reign to a certain extent for a season.
 But that such can ultimately stand I have no expectation.
 
+[.signed-section-closing]
 Believe me as ever thy sincerely affectionate friend,
 
 [.signed-section-signature]
@@ -6283,6 +6292,7 @@ and has blessed the work in thy hands,) until he grant thee from Pisgah`'s mount
 to view the length and breadth of all the land he has given thee,
 and conduct thee in peace over Jordan.
 
+[.signed-section-closing]
 Thy truly attached sympathizing friend and sister,
 
 [.signed-section-signature]
@@ -6662,7 +6672,6 @@ Thy nearly united friend,
 [.signed-section-signature]
 L+++.+++ A. Barclay.
 
-[.offset]
 +++[+++The person to whom the following letter was addressed,
 had since the commencement of the present troubles in our Society in New England,
 voluntarily introduced to the writer the subject of the disastrous
@@ -6673,7 +6682,6 @@ and was giving her strength and support to those
 who were sustaining said doctrines and their author,
 and had come to be in full fellowship with them.
 
-[.offset]
 This change in one whom he had esteemed and loved so well
 in the fellowship of that faith which changeth not,
 produced in him a deep concern for her safe standing,
@@ -6812,6 +6820,7 @@ which have so sorrowfully divided us in Jacob and scattered us in Israel.
 
 I should be truly glad to hear from thee and how it is with thee every way.
 
+[.signed-section-closing]
 From thy affectionate friend and true well wisher,
 
 [.signed-section-signature]
