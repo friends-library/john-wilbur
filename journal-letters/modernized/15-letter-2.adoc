@@ -1,6 +1,7 @@
 [short="Letter II. On the Fall of Man and Christian Redemption"]
-== Letter II. On the Fall of Man, and on Christian Redemption.
+== Letter II. / On the Fall of Man, and on Christian Redemption.
 
+[.salutation]
 My Dear Friend,
 
 If it be, as has been affirmed, that enmity took root in some of the heavenly company,
@@ -202,7 +203,7 @@ shall deny the divinity of Christ,
 and the efficacy and necessity of his outward sacrifice,
 then all his professions of light or grace, or spirit,
 (if indeed he have the presumption to make such a
-profession,) will be but a mere ignis fatuus,
+profession,) will be but a mere _ignis fatuus,_
 or a counterfeit of the right thing, and will only contribute to his condemnation.
 
 Now if by the suggestion of an evil spirit the fall of man was effected through disobedience,
@@ -290,21 +291,33 @@ should be overlooked or excluded from the summary
 of our faith in the covenant of life and peace.
 And these provisions and conditions may be thus enumerated:--
 
-1st. That men are to be saved by the outward coming, sufferings,
+[.numbered-group]
+====
+
+[.numbered]
+_1st._ That men are to be saved by the outward coming, sufferings,
 and death of Jesus Christ, through whom their souls are reconciled unto God.
 
-2nd. That men are to be saved by faith in God, and in his Son Jesus Christ.
+[.numbered]
+_2nd._ That men are to be saved by faith in God, and in his Son Jesus Christ.
 
-3rd. That men are to be saved by regeneration and baptism of the Spirit.
+[.numbered]
+_3rd._ That men are to be saved by regeneration and baptism of the Spirit.
 
-4th. That men are to be saved by Divine Grace.
+[.numbered]
+_4th._ That men are to be saved by Divine Grace.
 
-5th. That men are to be saved by the Spirit of Christ or of God.
+[.numbered]
+_5th._ That men are to be saved by the Spirit of Christ or of God.
 
-6th. That men are to be saved by the knowledge of God.
+[.numbered]
+_6th._ That men are to be saved by the knowledge of God.
 
-7th. That men are to be saved by obeying and keeping the commandments of God,
+[.numbered]
+_7th._ That men are to be saved by obeying and keeping the commandments of God,
 and the Lord Jesus Christ.
+
+====
 
 To exemplify and demonstrate the foregoing positions,
 I would refer to the subjoined passages of Scripture,

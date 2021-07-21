@@ -1,13 +1,18 @@
 [short="Preface to the Letters"]
 == Letters to a Friend, On Some of the Primitive Doctrines of Christianity.
 
+[.centered]
 By John Wilbur.
 
-"`Finally, brethren, whatsoever things are true, whatsoever things are honest,
+[quote.scripture, , Phil. 4:8.]
+____
+Finally, brethren, whatsoever things are true, whatsoever things are honest,
 whatsoever things are just, whatsoever things are pure, whatsoever things are lovely,
 whatsoever things are of good report; if there be any virtue, and if there be any praise,
-think on these things.`"--Phil. 4:8.
+think on these things.
+____
 
+[.offset]
 +++[+++The following Letters,
 written by John Wilbur to his friend George Crosfield of Liverpool,
 during his first visit to Great Britain,
@@ -20,6 +25,7 @@ and brought down upon their author the severe condemnation of those who
 were insidiously at work to undermine the true principles of Friends,
 both in England and America.
 
+[.offset]
 On returning to his own country,
 he was soon called to account by some of the leading
 characters in New England Yearly Meeting,
@@ -31,6 +37,7 @@ and inquiry was made of the Friend having charge of the records of that Meeting,
 as to the practice in such cases; who replied that it was not the usage in that country,
 to bring forward such pamphlets for revision.
 
+[.offset]
 The storm of indignation,
 with which J. W. was nevertheless assailed on this occasion on the part of some,
 clearly evinced the deep and settled purpose which existed in their minds,
@@ -43,6 +50,7 @@ on account of these Letters;
 being charged with having turned aside from his proper business in writing them,
 raising a false alarm, and creating an unnecessary agitation in the Society, etc.
 
+[.offset]
 But the publication of the "`Beacon,`" and the defection in England
 termed the "`Beaconite Separation,`" soon after occurred;
 the seceders holding to the very doctrines guarded against in these Letters,
@@ -56,9 +64,10 @@ of the Society at that time publicly to adopt them.
 Some of the leaders in this schism, however, did not hesitate to affirm,
 that their views had been thus changed by the writings of J. J. Gurney.
 
+[.offset]
 These writings,
-though in the main more insidious and plausible than the open defection of the
-"`Beacon,`" no less surely led away from the Truth as always held by Friends;
+though in the main more insidious and plausible than the open defection of the [.book-title]#Beacon,# no less surely
+led away from the Truth as always held by Friends;
 and they have indeed produced a far more sweeping effect,
 than any bold avowal of the same principles could have accomplished.
 Their legitimate results are becoming more and more manifest to every intelligent observer.
@@ -72,6 +81,7 @@ were so abundant and faithful,
 amid all the sore trials and sufferings which fell to his lot.
 We commend these Letters to the serious consideration of the reader.]
 
+[.centered]
 === Preface.
 
 In publishing the following Letters,
@@ -114,6 +124,8 @@ and to profit by the sentiments they inculcate.
 The responsibility of giving them this publicity attaches not to the writer,
 but belongs exclusively to me.
 
+[.signed-section-signature]
 George Crosfield.
 
+[.signed-section-context-close]
 Liverpool, 10th Month, 1882.
