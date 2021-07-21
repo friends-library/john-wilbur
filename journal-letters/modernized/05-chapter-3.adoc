@@ -325,14 +325,22 @@ we attended their meeting--dull and painful,
 on account of lukewarmness and carnal security in too many present;
 to whom an alarm was sounded near the conclusion of the meeting.
 After this meeting we went again to Stockport,
-and lodged at George Jones`'s. Here he wrote a letter
-to his family from which the following is an extract:--
+and lodged at George Jones`'s.
 
-"`Stockport, in the county of Cheshire, 9th mo., 23rd, 1831.
+[.offset]
++++[+++Here he wrote a letter
+to his family from which the following is an extract:]
 
-"`My Dear Wife And Children,
+[.embedded-content-document.letter]
+--
 
-"`I have been thinking so much of you this afternoon that I cannot omit writing you.
+[.signed-section-context-open]
+Stockport, in the county of Cheshire, 9th mo., 23rd, 1831.
+
+[.salutation]
+My Dear Wife And Children,
+
+I have been thinking so much of you this afternoon that I cannot omit writing you.
 I have not yet received any information from you since I left America--have been greatly
 in expectation of a letter for more than a week past--saw a Liverpool paper last night
 which stated that the packet ship S. Jenkins came round Holyhead on second day last,
@@ -378,7 +386,9 @@ shall be pleased to restore us to each other again;
 and if this be your experience I believe your hearts
 will be made to overflow with his love,
 and his kind and propitious eye will be over you, causing your peace to flow as a river,
-which is my chiefest desire for you.`"
+which is my chiefest desire for you.
+
+--
 
 24th. On seventh day we travelled through a corner of Derbyshire,
 thirty-six miles to Sheffield, in Yorkshire,
@@ -692,13 +702,20 @@ in which I trust no dishonor was brought to the Truth.
 Fourth day, 16th. We went to Addingham and had a meeting there,
 and in the evening another at Skipton.
 
+[.offset]
 +++[+++While in this neighborhood, he received the following letter from Frances Thompson,
 wife of Thomas Thompson, whose house was his first home in Liverpool.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From Frances Thompson to John Wilbur.
 
+[.signed-section-context-open]
 Liverpool, 11th mo., 16th, 1831.
 
+[.salutation]
 Dear Friend John Wilbur,
 
 I had given proof of my remembrance of you,
@@ -747,9 +764,13 @@ of "`fainting by the way.`"
 
 In a feeling of much love and sympathy with you, dear friend, I remain
 
+[.signed-section-closing]
 Your sincere friend,
 
+[.signed-section-signature]
 Frances Thompson.
+
+--
 
 17th. In the morning we were at Airton,
 and in the evening at Settle;--these four meetings, though small,
@@ -1071,7 +1092,7 @@ This place was also the residence of Samuel Bownas.
 The meetinghouse at Brigflats was built, as appears by the date over the door, in 1675,
 and the little place over the gallery, where Samuel Bownas sat when reproved,
 in a public manner, by Anne Wilson, still remains.^
-footnote:[Of this incident, Samuel Bownas thus speaks in his Life (Friends`' Library,
+footnote:[Of this incident, Samuel Bownas thus speaks in his [.book-title]#Life# (Friends`' Library,
 Philadelphia, vol.
 iii. p.8.) "`One first day, being at meeting a young woman, named Anne Wilson,
 was there and preached.
@@ -1119,10 +1140,16 @@ solid meeting it was, and power was manifestly given to preach the gospel,
 in the demonstration of the Spirit, and I felt to praise the Lord, our only helper,
 with great thankfulness of heart.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From George Crosfield to J. W.
 
+[.signed-section-context-open]
 Liverpool, 1st mo., 24, 1832.
 
+[.salutation]
 My Dear Friend,
 
 Having this opportunity, I wish to send you a few lines of remembrance,
@@ -1162,9 +1189,13 @@ he made but a short stay with us;
 but the innocent cheerfulness and peaceful feeling which seemed to clothe his spirit,
 gave evidence of his having been engaged to the satisfaction and relief of his mind.
 
+[.signed-section-closing]
 I remain your very affectionate friend,
 
+[.signed-section-signature]
 George Crosfield.
+
+--
 
 On second day morning, the 30th, with I. W. still for my companion, I went to Settle,
 and on third day, to Bradford, and lodged at John Hustler`'s, at Undercliff.
@@ -1185,10 +1216,16 @@ and strength was admirably given to exalt the power of Christianity over
 all the forms and ceremonies practised among the professors of it;
 and my heart was filled with praise and thanksgiving to God for his unspeakable gifts.
 
-From this place he wrote as follows to his wife:--
+[.offset]
++++[+++From this place he wrote as follows to his wife:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Sheffield, 2nd mo., 6,1832.
 
+[.salutation]
 My Dear Wife,
 
 On my arrival at Kendal,
@@ -1222,7 +1259,10 @@ and for the pledges of God`'s goodness to us, our dear children;
 and may the blessing of Heaven above, and of all that is good beneath,
 rest upon you and keep you in the bond and covenant of peace and love.
 
+[.signed-section-signature]
 J+++.+++ Wilbur.
+
+--
 
 We stayed at Sheffield until second day afternoon, and then went to Chesterfield,
 where next day I had a time of close labor in their meeting,
@@ -1593,12 +1633,19 @@ and my heart was lifted up with thanksgiving to the Lord.
 On second day, the 9th, had a meeting at Lewes, dined with John Rickman,
 and then went to Brighton, and attended the Select Quarterly Meeting the same evening.
 
-At this time he again wrote his wife as follows:--
+[.offset]
++++[+++At this time he again wrote his wife as follows:]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From J. W. to His Wife.
 
+[.signed-section-context-open]
 Brighton, 4th mo., 10th, 1832.
 
+[.salutation]
 My Beloved Wife,
 
 I have recently been greatly comforted and strengthened
@@ -1658,9 +1705,13 @@ and dwelling near his power and the pavilion of his goodness,
 you will find him to be your present helper and your exceeding great reward; which,
 my dear, is my longing desire for you and for our dear children, relations, and friends.
 
+[.signed-section-closing]
 Yours in dear love,
 
+[.signed-section-signature]
 John Wilbur.
+
+--
 
 The Quarterly Meeting at Brighton was held on the 10th,
 in which the public labor fell to my lot, as also the next day, at their Monthly Meeting,
@@ -1942,12 +1993,20 @@ as two meetings were beforehand appointed, I could do no less than attend them;
 and in that in the evening, which was at Cheltenham,
 my burden and darkness began to be dispelled, and my tongue was loosed,
 and I seemed to myself like one raised from the dead; and it was a favored meeting.
-Here he wrote to his wife as follows:--
 
+[.offset]
++++[+++Here he wrote to his wife as follows:]
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From J. W. to His Wife.
 
+[.signed-section-context-open]
 Cheltenham, Gloucestershire, 5th mo., 5th, 1832.
 
+[.salutation]
 My Beloved Wife,
 
 Be assured that neither distance nor time can lessen the
@@ -1997,9 +2056,13 @@ for my preservation and comfort.
 But after all, I am aware that preservation is only to those who live near to Him,
 the fountain of love and light, in which the enemy cannot dwell.
 
+[.signed-section-closing]
 Yours,
 
+[.signed-section-signature]
 J+++.+++ Wilbur.
+
+--
 
 On first day,
 we attended their fore and afternoon meetings at Tewksbury--silent in the former,
@@ -2050,13 +2113,19 @@ in power, rise much above the letter.
 Next day, went to Hammersmith, and attended their mid-week meeting--very small,
 but way opened for some instructive counsel, and we were, in the end, refreshed.
 
-The following letter was received about this time:--
+[.offset]
++++[+++The following letter was received about this time:]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From Betsey Purinton to John Wilbur.
 
+[.signed-section-context-open]
 Providence, R. I., 4th mo., 6th, 1832.
 
-"`Of our venerable friend, Moses Brown, now in his 94th year,
+Of our venerable friend, Moses Brown, now in his 94th year,
 it is not too much to speak often.
 Of his illness, you have probably heard; since which,
 I have often heard it observed that his intellect
@@ -2110,7 +2179,10 @@ being what I have often to watch against, lest, in my manifold weakness,
 the mess of pottage may slip between me and my Divine Master,
 against which the injunction remains to be good--"`Watch.`"
 
+[.signed-section-signature]
 Betsey Purinton.
+
+--
 
 On fifth day, the 17th of 5th mo., I attended Westminster Monthly Meeting,
 where was also John Dimond, a minister from Exeter,
@@ -2177,10 +2249,16 @@ in weeping for the backsliding of the sons and daughters of my people,
 occasioning the face of the Beloved to be so turned from us,
 in the day of our great necessity.
 
-From London he wrote to his wife and children as follows:--
+[.offset]
++++[+++From London he wrote to his wife and children as follows:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 London, 6th Mo., 3rd, 1832.
 
+[.salutation]
 My Dear Wife And Children,
 
 On the 30th of last month, I received letters from T+++_______+++ and A+++_______+++,
@@ -2254,9 +2332,13 @@ Thomas Shillitoe has just been in my chamber, and desires his dear love to you a
 Give my love to all my dear friends, and I should take pleasure in naming many,
 if time would admit.
 
+[.signed-section-closing]
 In great love I am yours,
 
+[.signed-section-signature]
 John Wilbur.
+
+--
 
 On third day, the 5th of 6th mo., I went to Croydon,
 to the house of my friend John Barclay, to rest a few days,
@@ -2482,10 +2564,16 @@ At Plymouth we had a meeting with Friends, and labored much in a doctrinal way,
 open and satisfactory.
 Our next was, the same evening, at Tideford, very open and comfortable.
 
-From this place he wrote to his wife as follows:--
+[.offset]
++++[+++From this place he wrote to his wife as follows:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Tideford, Cornwall, 7th.mo., 18th, 1832.
 
+[.salutation]
 My Dear Wife,
 
 Last evening, at Plymouth, I received yours of the 3rd of 6th mo.,
@@ -2529,7 +2617,10 @@ and joy unspeakable shall be their portion forever and ever!
 With the assurance of great love and tenderness of feeling,
 which words fall short of expressing, I am yours,
 
+[.signed-section-signature]
 J+++.+++ Wilbur.
+
+--
 
 The next day we went to Looe, and met with four Friends, their full number,
 of whom Sarah Tucket is a minister in good esteem.
@@ -2616,11 +2707,17 @@ and had an opportunity with the scholars the same evening; and next morning,
 first of the week, and 29th of 7th mo.
 attended their meeting, and was silent therein; but my companion had some service.
 
-The following is an extract from the letter above referred to:--
+[.offset]
++++[+++The following is an extract from the letter above referred to:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Bridgewater in Sommersetshire, 7th mo.
 28th, 1832.
 
+[.salutation]
 My Dear Wife,
 
 In consequence of the intelligence conveyed by your last letter,
@@ -2656,7 +2753,10 @@ to whom with great tenderness and intercession for his mercy I resign her,
 believing in the faith of the gospel that I shall joyfully meet her again,
 if not in this, in the world to come.
 
+[.signed-section-signature]
 J+++.+++ Wilbur.
+
+--
 
 In the afternoon, attended meeting at Claverham, where I was also silent.
 Here I met with my dear friend Geo.
@@ -2809,10 +2909,16 @@ that the state of things required the publication
 of such matter as is contained in these letters;
 and, with some revisal, it was thought best to publish them.
 
-While in this neighborhood he wrote as follows to his wife:--
+[.offset]
++++[+++While in this neighborhood he wrote as follows to his wife:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 West Derby, near Liverpool, 9th mo., 7th, 1832.
 
+[.salutation]
 My Dear Wife,
 
 My health is good,
@@ -2847,7 +2953,10 @@ they will bring up at Zeboim.
 
 My love is to you, my dear, and to all our children and friends.
 
+[.signed-section-signature]
 John Wilbur.
+
+--
 
 I stayed some days about Liverpool, and attended their meetings as they came in course;
 and on second day, the 11th of 9th mo., set out for Nantwich,
@@ -2871,12 +2980,19 @@ as had been heretofore the case;
 and so I left the disposal of them to George Crosfield and other friends,
 to do as they thought best with the letters.
 
-About this time he received the following letter:--
+[.offset]
++++[+++About this time he received the following letter:]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From John Beard to J. W.
 
+[.signed-section-context-open]
 Olveston, 15th of 9th mo., 1832.
 
+[.salutation]
 My Dear Friend,
 
 I fear you will think me neglectful in not writing to you before;
@@ -2925,7 +3041,10 @@ May his eternal power be underneath to support you.
 
 Believe me to be your sincere and affectionate friend,
 
+[.signed-section-signature]
 John Beard.
+
+--
 
 From Warrington I returned again to Liverpool, and stayed a few days more,
 and then went to Manchester and attended their Quarterly Meeting,
@@ -2979,11 +3098,17 @@ and her resignation, were so satisfactory, I endeavored to restrain my grief,
 and to moderate my weeping for the loss of my dear child;
 and for the affliction of my dear wife and beloved children.
 
-On this occasion he wrote to his family as follows:--
+[.offset]
++++[+++On this occasion he wrote to his family as follows:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Lisburn, near Belfast, Ireland, 9th mo.
 28th, 1832.
 
+[.salutation]
 My Dear Wife And Children,
 
 While at breakfast this morning I received the letters bearing date 8th mo.
@@ -3048,7 +3173,10 @@ We did not come to Ireland quite as soon as I had contemplated;
 but I apprehend my stay will not be very long.
 I have as yet found an open door here; the meetings have mostly been much favored.
 
+[.signed-section-signature]
 John Wilbur.
+
+--
 
 On seventh day, the 29th, we had a favored and open meeting at Lurgan,
 and on first day morning at Richill,
@@ -3116,11 +3244,17 @@ the doctrine of Christ`'s outward coming,
 his character, offices, and sacrifice for sin,
 as well as of his inward and spiritual appearance.
 
-A letter was received about this time from Margaret Crosfield,
-from which the following is an extract:--
+[.offset]
++++[+++A letter was received about this time from Margaret Crosfield,
+from which the following is an extract:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Mount Vernon, 9th of 10th mo., 1832.
 
+[.salutation]
 My Dear Friend,
 
 I am much engaged at present, with company staying at our house and several other ways,
@@ -3154,7 +3288,10 @@ we are willing to bear for Jesus Christ`'s sake.--And now, I believe,
 I must bid you farewell, and in a near feeling of love and unity,
 remain your affectionate friend,
 
+[.signed-section-signature]
 Margaret G. Crosfield.
+
+--
 
 On second day, we travelled fifty miles to Limerick,
 and next day attended their Monthly Meeting, to much satisfaction.
@@ -3263,11 +3400,17 @@ in the life and power of Truth.
 From here, after parting with this interesting family, we went to Leeds, where,
 on the evening of the 15th, we had a meeting, much to my relief.
 
-While at Ackworth he wrote as follows to his wife and children:--
+[.offset]
++++[+++While at Ackworth he wrote as follows to his wife and children:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Ackworth School, 11th mo.
 13th, 1832.
 
+[.salutation]
 My Beloved Wife And Children,
 
 One week ago today, in company with my dear friend C. Osborne,
@@ -3327,7 +3470,10 @@ will be a joyful day to me, probably as much so as any that I have ever experien
 and towards which I dare not presumingly look,
 knowing that all things yet to come are in the hands of the Great Disposer of events.
 
+[.signed-section-signature]
 John Wilbur.
+
+--
 
 A disposition is making its appearance in various places in this nation,
 and among Friends, to think very little of the cross of Christ, practically,
@@ -3510,12 +3656,19 @@ Here we lodged with Dykes Alexander.
 Next day, we went to Sudbury, and had an evening meeting with Friends,
 to good satisfaction; and here we stayed awhile and wrote.
 
-At this time the following letter was received:--
+[.offset]
++++[+++At this time the following letter was received:]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From T. And M. Bayes to J. W.
 
+[.signed-section-context-open]
 Crownthorpe, 12th mo., 16th, 1832.
 
+[.salutation]
 Esteemed And Dear Friend,
 
 Your kind invitation to me to address a few lines to you before you left England,
@@ -3566,8 +3719,11 @@ and prosper in the thing whereto he sent it.
 In the love of the gospel, we bid you, dear friend, most affectionately, farewell,
 and remain your friends,
 
+[.signed-section-signature]
 Thos.
 And Marianne Bayes.
+
+--
 
 On fourth day, the 19th, we took public coach and went to London,
 lodging again at Peter Bedford`'s. On fifth day, went to Newington,
@@ -3712,10 +3868,16 @@ and had a meeting in the evening with the town`'s-people;
 in both which I was largely engaged in declaring the word of life,
 revealed in the gospel.
 
-From this place he wrote to his wife as follows:--
+[.offset]
++++[+++From this place he wrote to his wife as follows:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Bury, in Suffolk, 12th mo., 29th, 1832.
 
+[.salutation]
 My Beloved Wife,
 
 Not feeling clear of Norwich, we returned there again from London on third day night.
@@ -3768,9 +3930,13 @@ and remote places upon the earth.--In much tender love to you,
 my dear wife, and to all our children, relations, and friends,
 and desiring that our good and gracious Helper would keep, instruct, and bless you,
 
+[.signed-section-closing]
 I am yours,
 
+[.signed-section-signature]
 John Wilbur.
+
+--
 
 Here, my friend John King, of Sudbury, met me, in order to bear me company for a time;
 and, on second day, the 31st, we travelled to Godmanchester, near Huntingdon,
@@ -4125,15 +4291,22 @@ I was gone from home one year, eight months and ten days,
 but remained in the United Kingdom only one year and about six months, or 545 days,
 so that, on an average, I attended a meeting for every day.
 
+[.offset]
 +++[+++The following letters from several dear friends in England were
 written on the eve of J. W.`'s departure from that country,
 at the termination of his arduous service there; and having especial reference thereto,
 are published as a fitting conclusion to this chapter.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From Ann Coning.
 
+[.signed-section-context-open]
 Gisborough, 5th of 1st mo., 1833.
 
+[.salutation]
 My Dear Friend,
 
 I expected to see you again before you took your departure from us--indeed
@@ -4272,12 +4445,21 @@ and may enter in through the gates into the city.`"
 
 With affectionate remembrance, your sincere friend,
 
+[.signed-section-signature]
 Ann Coning.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From Margaret Crosfield to J. W.
 
+[.signed-section-context-open]
 Mount Vernon, 1st mo., 8th, 1838.
 
+[.salutation]
 My Dear Friend,
 
 You are very often the companion of my thoughts which
@@ -4338,14 +4520,24 @@ I fear this will be a long time in reaching you,
 but I hope you will excuse it and all its errors,
 being a proof of my near love and unity with you and your labors in this land.
 
+[.signed-section-closing]
 Your truly affectionate sister,
 
+[.signed-section-signature]
 Margaret Crosfield.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From Ann May.
 
+[.signed-section-context-open]
 Ampthill, 1st mo., 25th, 1833.
 
+[.salutation]
 My Dear Friend John Wilbur,
 
 Permit me to express my warmest wishes for your preservation on every hand,
@@ -4392,14 +4584,24 @@ with fervent desires that your return from this arduous
 field of labor may be richly crowned with peace,
 even the hundred fold.
 
+[.signed-section-closing]
 Your sincere friend,
 
+[.signed-section-signature]
 Ann May.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From Robert Whitaker.
 
+[.signed-section-context-open]
 Ackworth School, 8th of 2nd mo., 1833.
 
+[.salutation]
 My Dear Friend John Wilbur,
 
 We rejoiced to learn that your labors of love in our country, which, I believe,
@@ -4443,6 +4645,10 @@ and shall rejoice to hear of your safe arrival in Rhode Island.
 Repeating the message of dear love from your different friends here,
 my wife and daughter especially joining,
 
+[.signed-section-closing]
 I am truly your affectionate friend,
 
+[.signed-section-signature]
 Robert Whitaker.
+
+--
