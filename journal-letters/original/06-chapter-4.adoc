@@ -141,7 +141,9 @@ Moses Brown.
 
 --
 
-[.offset]
+[.small-break]
+'''
+
 +++[+++The foregoing letters are selected from a considerable number from Moses Brown,
 written in a familiar and affectionate style,
 but mostly relating to local Society affairs,
@@ -150,7 +152,6 @@ when he spoke out plainly in condemnation of this heresy,
 and evinced much concern for the preservation of the Society
 on its original ground of principle and practice.
 
-[.offset]
 It is evident from these letters,
 that he regarded J. J. Gurney as being strongly imbued with Beaconite sentiments,
 and in private conversation with John Wilbur,
@@ -161,7 +162,6 @@ Crosfield, while in England, (see appendix,) Moses Brown continued friendly,
 and expressed his satisfaction with those letters,
 and with the avowed design of the author in writing them.
 
-[.offset]
 He met with much opposition from W. A., W. J.,
 and others on account of the stand he made against the introduction
 of innovating doctrines into the Society.
@@ -173,7 +173,6 @@ and in favor of the paramount authority of the Scriptures;
 maintaining that all religious impressions and whatsoever is vital in religion,
 is borrowed from the Bible.
 
-[.offset]
 Moses Brown firmly withstood them herein;
 maintaining the views of R. Barclay on this question, and of the Society since his day;
 and when they quoted the passage "`All Scripture is given by inspiration of God,
@@ -184,7 +183,6 @@ in substance that as the Scriptures emanated from the divine fountain of all goo
 so in the language of Barclay, as the stream cannot rise higher than the fountain,
 the Scriptures cannot justly be elevated above their divine Author.
 
-[.offset]
 That they are profitable for doctrine, reproof, instruction, etc.,
 he as fully believed as they did;
 and the Society always set them above all other writings,
@@ -204,7 +202,6 @@ But as W. Jenkins continued to press his views,
 he turned to him and said "`William thou art not right,
 and thou never will be while thou continues to hold such sentiments as these.`"
 
-[.offset]
 Moses Brown was remarkable for his uprightness and
 consistency during a long life of nearly 98 years.
 He was entrusted with a large share of this world`'s goods,
@@ -215,7 +212,6 @@ observing in an uncommon degree this injunction of our Lord:
 His house was always open for the entertainment of Friends;
 and his hospitality in this respect was experienced by many.
 
-[.offset]
 Being a man of good natural parts, and of large and varied information,
 he was interesting and agreeable in conversation beyond most,
 on which account his company and advice were much sought by men of all classes,
@@ -3918,6 +3914,7 @@ and even this unlike that of the prophet who was slain by the lion,
 nor the ass on which he rode torn,) he must still be honored and cherished,
 as if he were a living
 
+[.signed-section-closing]
 Farewell.
 
 [.signed-section-signature]
