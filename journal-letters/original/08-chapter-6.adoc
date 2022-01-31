@@ -473,7 +473,7 @@ I have not yet been off the bed, but hope I shall be able to do so in a week mor
 but great caution will be necessary.
 
 [.signed-section-closing]
-I that which I trust changeth not.
+In that which I trust changeth not.
 
 [.signed-section-closing]
 I am thy friend,
@@ -653,8 +653,8 @@ He who rules in the kingdoms of men, will finally order and control all things a
 if we simply do that which he calleth for at our hands in the opening of his will to us,
 and patiently wait, and quietly hope for his salvation;
 and if he appoint unto us greater afflictions than we have yet
-experienced if we are favored to keep "`the word of his patience
-"`he will not leave us nor forsake us in the day of trouble,
+experienced if we are favored to keep "`the word of his patience`"
+he will not leave us nor forsake us in the day of trouble,
 but will succor and sustain us through all that men can do to us,
 and he will preside over and order his own cause, and finally give us the victory.
 My wife and family join me in much dear love to thyself, husband and family,
@@ -700,7 +700,7 @@ but their backs to the smiter, and their cheeks to them that pluck off the hair.
 
 I doubt not but thou hast often felt the force of the language,
 "`The ploughers ploughed upon my back, they made long their furrows.`"
-I well remember how feelingly and forcibly this sentence dwell upon my mind,
+I well remember how feelingly and forcibly this sentence dwelt upon my mind,
 in the beginning of the contest with that evil heart
 of unbelief in departing from the living God,
 in which I was engaged, however unworthily,
@@ -915,8 +915,8 @@ And yet when the Lord is evidently calling us to weeping and mourning
 and girding with sackcloth for the backsliding and adultery amongst us,
 yea, for the abominations committed by the elders of Israel,
 "`behold joy and gladness;`" a boasting of good times and things amongst us,
-and a saying like some of old, '``' Is not the Lord among us?
-None evil can come upon us!`"
+and a saying like some of old,
+"`Is not the Lord among us? None evil can come upon us!`"
 And it was said to such, "`Therefore shall Zion for your sakes be ploughed as a field,
 and Jerusalem shall become heaps.`"
 
@@ -1074,7 +1074,7 @@ the work of men`'s hands.
 He will in his own good time deliver his oppressed seed,
 will cause Jacob to rejoice and Israel to be glad.
 Then fear not worm Jacob--who art thou that thou
-shouldt be afraid of a man that shall die,
+should be afraid of a man that shall die,
 and of the son of man that shall be made as grass.
 He who "`hath his way in the whirlwind and in the storm,
 and the clouds are the dust of his feet,`" will overrule all the devices and contrivances
@@ -1486,7 +1486,8 @@ and such is and will be the effect of all outgoing spirits; but be of good cheer
 dear friend, thou wilt be comforted when they are tormented.
 I would rather be in thy situation and live on bread and water
 than to be united with them and possess all they all enjoy,
-both within and without, for they will have torment upon torment Oh, wretched state!
+both within and without, for they will have torment upon torment.
+Oh, wretched state!
 Envy is happy only when she herself torments,
 but the righteous possess their souls in patience, and rest in the day of trouble,
 and in proportion as they are permitted to be afflicted,
@@ -1825,7 +1826,7 @@ Dear friend, and friends, who feel and act with thee,
 think not the time of your sufferings long!
 The Lord hath a purpose in permitting it to be, that it shall redound to his own glory,
 and to your everlasting peace; and,
-dear John 1 believe there are children yet unborn who will call thee blessed,
+dear John I believe there are children yet unborn who will call thee blessed,
 because of thy faithfulness in earnestly contending
 for the faith once delivered to the saints.
 
@@ -3236,7 +3237,7 @@ our Lord,
 be not afraid,`" is a language which hath repeatedly presented to my mind,
 of latter days, when thinking of thee,
 and especially since I have had the opportunity of reading
-and reflecting upon thy book--The Narrative and Exposition.
+and reflecting upon thy book--The [.book-title]#Narrative and Exposition.#
 I have no doubt but it will be extensively read,
 and have a tendency to open the eyes of many in this country and yours.
 For a time, it seems to me, it will be something like leaven operating secretly here;
@@ -3384,7 +3385,7 @@ we often said one to another, in the depths of our sorrow, "`Oh,
 that mine adversary would write a book,`" when lo! the Beacon came forth,
 and many who had been blind before could then see;
 but others continue blind and perverse to this day,
-and I believe in their hearts and minds have adopted the same ism,
+and I believe in their hearts and minds have adopted the same __ism,__
 but beginning with a G.
 
 I have read every syllable of thy book,
@@ -3456,14 +3457,14 @@ to the most merciful Omnipotent are thy friends here,
 so far as I know,) that he has been pleased to grant their
 desire sooner and more fully than they had looked for.
 
-I esteemed it very kind of thee to send me a copy of thy "`Narrative.`"
+I esteemed it very kind of thee to send me a copy of thy [.book-title]#Narrative.#
 It came to hand the day before I left home for our Yearly Meeting and I took it with me,
 and read a considerable portion of it while travelling,
 and it was a great comfort to me to find thereby,
 that thou and thy co-sufferers had been strengthened to undergo your trials,
 and unjust deprivations, in a good degree of that Christian spirit, which,
 alone can conquer without having cause of regret.
-The "`Narrative`" opens up such a continuous scene of persecution and injustice,
+The [.book-title]#Narrative# opens up such a continuous scene of persecution and injustice,
 as I should have thought it impossible for any members of our Society,
 in their individual capacity, to carry forward;
 but when we see it carried on by a committee of a large body of the Society,
@@ -4099,7 +4100,7 @@ and not for their return.
 It was not, however, complied with.]
 
 Since writing the above, I have heard some propositions held up,
-of your corning together, by one of our city members.
+of your coming together, by one of our city members.
 These were for the Gurneyites to throw down the hatchet,
 restore John Wilbur to all the rights he had before he was disowned, etc.,
 and then for you to return to them again.
@@ -4215,7 +4216,7 @@ not with peace of mind compromise their principles,
 nor forbear to testify against such things as tend to their overthrow.
 Thou knowest too, I apprehend,
 that these leaders among us caused J. J. G.`'s credentials
-to be indorsed in our Yearly Meeting,
+to be endorsed in our Yearly Meeting,
 and have also subscribed to a written document in which they defend him with great earnestness,
 and allude to him as a duly accredited and fully authenticated
 minister of the Society of Friends.
@@ -4231,7 +4232,7 @@ to be one of their number, and now consenting to, if not approving of their proc
 and therefore making thyself responsible for those measures to which they have resorted.
 
 But, my dear friend,
-I am not yet prepared to believe that thou hast given thyself up to indorse such
+I am not yet prepared to believe that thou hast given thyself up to endorse such
 unhallowed proceedings and persecutions against honest and conscientious Friends,
 who dare not run to do evil, though it were with a great multitude,
 but would rather sit alone and be silent at the feet of their divine Master;
@@ -4344,7 +4345,7 @@ brought down the postmaster and his wife, from Charles`'s own neighborhood;
 she being somewhat connected with Friends.
 
 After meeting they came to us,
-and informed that they had seen in their office the "`Considerations,`"
+and informed that they had seen in their office the [.book-title]#Considerations,#
 and had read it a little before it was called for.
 They were now very desirous of possessing a copy, which was soon sent them.
 At the close of this meeting at Waterville, many inquiries were made,
@@ -4359,8 +4360,8 @@ greatly to my satisfaction, and I believe to all present; after which,
 to satisfy the desires of the people, our case was briefly unfolded,
 and many applications were made for books,--more than we could supply.
 
-Here we saw the want of the "`Considerations,`" and the Answer
-to "`Calumny Refuted;`" the latter have now gone that way.
+Here we saw the want of the [.book-title]#Considerations,# and the Answer
+to [.book-title]#Calumny Refuted;# the latter have now gone that way.
 Our next meeting was at the house of our friends, D. and A. Howland,
 their mother and children, the only firm Friends in that quarter;
 although a few others whom we visited told us that they had no unity with the Gurneyites,
@@ -4642,7 +4643,7 @@ both in spirituals and temporals.
 I have often thought of thy dear bosom friend, how she must be tried as well as thee,
 in that long and sore warfare.
 May our blessed Helper be very near to strengthen you to bear up, now in your old age.
-I have divers times read thy "`Narrative`" as well as some other accounts,
+I have divers times read thy [.book-title]#Narrative# as well as some other accounts,
 and I thought nothing short of Divine power could have carried thee so remarkably through.
 Thou hast heard by this time, I suppose, that our Yearly Meeting this year,
 condemned the unsound writings of Joseph John Gurney, and also of Edward Ash,
@@ -5314,7 +5315,7 @@ if he be blessed with the perceptions of Truth, can but see the difference;
 and the evident perversion of our sentiments by J. J. G.
 I would refer thee to those taken by William Hodgson,
 Jr., by our Quarterly and Yearly Meeting, by Philadelphia Yearly Meeting, with comments,
-and lastly by thy correspondent, in his appendix to the "`Narrative and Exposition.`"
+and lastly by thy correspondent, in his appendix to the [.book-title]#Narrative and Exposition.#
 And although it may be, as Gurney`'s books have gone through many editions,
 in different type, that the passages quoted may not compare in all his works alike,
 yet the extracts, by diligent search, will be found correct,
@@ -6535,7 +6536,7 @@ and I touched on their Yearly Meeting`'s backwardness in acknowledging you after
 they had united with the report of their committee and had waited and seen the
 different treatment the two bodies in New England had given their document,
 and therefore knew thereby what manner of spirit each was of! and
-I endeavored to show how 1 felt upon those conservative views,
+I endeavored to show how I felt upon those conservative views,
 and what harm they might and I believed would do.
 
 Ah!

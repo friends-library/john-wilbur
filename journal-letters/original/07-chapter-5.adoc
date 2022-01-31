@@ -5,7 +5,7 @@
 +++[+++The following narrative of events,
 forming a most important portion of the travails and exercises,
 and deep sufferings of John Wilbur for the cause and testimony of Truth,
-is abstracted from his published Narrative and Exposition,
+is abstracted from his published [.book-title]#Narrative and Exposition,#
 and is introduced here in the absence of any regular diary of these events,
 in the belief that his biography would be imperfect if omitting
 to elucidate this eventful period of his life.]
@@ -1013,7 +1013,7 @@ not only the course which he had taken, but also the letter which he had written
 and because he hesitated, conscientiously doing so, they cast upon him many reproaches,
 and the epithet of stubbornness,
 and a disposition to resist his friends and the good order of society.
-They also now denied the intimation in the letter, that one of the:
+They also now denied the intimation in the letter, that one of the
 number had said that some of J. J. Gurney`'s doctrines were very unsound.
 And D. Buffum himself denied ever saying any such thing.
 And they further declared, that no one would know, by reading the letter,
@@ -1059,7 +1059,7 @@ and said, I remember these were David`'s expressions.
 Why, then, asked J. W., didst thou jog David at Greenwich, and say,
 "`I should not have said so?`"
 But before this query, to which John Meader made no reply,
-several of the committee had indorsed his present statement of it.
+several of the committee had endorsed his present statement of it.
 
 Finally, as Andrew Nichols had said nothing to this disputed point,
 they called on him to testify in regard to it; and though a diffident man,
@@ -1075,7 +1075,7 @@ Two of the committee proposed to burn the papers and drop the subject altogether
 but others hesitated.
 J+++.+++ Wilbur had complained of the injustice and severity
 of their charges thrown out against him,
-of the aspersion of falsehood indorsed upon his letter, saying, that he had never,
+of the aspersion of falsehood endorsed upon his letter, saying, that he had never,
 in speaking of them, or of J. J. Gurney, made use of such language.
 In answer to which T. A. said,
 "`I don`'t think that John Wilbur meant to say anything in that letter which was untrue.`"
@@ -1184,7 +1184,7 @@ It was now very observable that the committee (for
 the present) were somewhat softened and moderated;
 they consented that J. W. should be furnished with
 their objections to his letter on paper,
-or with a copy of his letter with then objections designated in the margin.
+or with a copy of his letter with their objections designated in the margin.
 They agreed that T. A who was not present, should, if he was willing,
 furnish him with them in the one form or the other.
 But still before we parted, they so far recovered their former feelings, that they,
@@ -1460,7 +1460,7 @@ and no objection to either of these affirmations
 was expressed by any one of the committees then present.^
 footnote:[Here then,
 we find those committees voluntarily identifying
-themselves with the doctrines of J.J. Gurney.]
+themselves with the doctrines of J. J. Gurney.]
 
 On 4th day morning, J. W. met again with the committee,
 and in a recurrence to the great question of doctrines,
@@ -1470,7 +1470,7 @@ that one of the Quarterly Meeting`'s committee had said that he had never
 read anything in J. J. Gurney`'s writings which he thought unsound;
 and that one of the Yearly Meeting`'s committee had also said, that he believed,
 if we were to compare one thing with another,
-that we should find J.J. Gurney`'s doctrines to be nearly,
+that we should find J. J. Gurney`'s doctrines to be nearly,
 if not entirely conformable to the doctrines of our early Friends;
 and that one or two more responded to that sentiment.
 
@@ -1856,7 +1856,7 @@ necessary to his being restored to the unity of Friends,
 we now believe it incumbent upon us,
 in discharge of the service confided to us by the Yearly Meeting,
 to recommend his case to the immediate notice and
-care of South King-ton Monthly Meeting.
+care of South Kingston Monthly Meeting.
 
 [.signed-section-closing]
 Providence, 4th Mo., 23,1842.
@@ -2213,7 +2213,7 @@ on account of the complaint brought against him by the Yearly Meeting`'s committ
 have attended to that service;
 having given notice to the parties of the time and place of our meeting,
 John Wilbur and several of the Yearly Meeting`'s committee attended
-and were heard upon the several matters contained in said complaint,
+and were heard upon the several matters contained in said complaint.
 
 Upon a full and deliberate investigation of the case,
 our judgment is that the charges against John Wilbur, have not been sustained,
