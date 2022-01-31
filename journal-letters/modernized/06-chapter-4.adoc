@@ -223,6 +223,9 @@ For many years he occupied the station of an elder in the Society of Friends;
 and during the latter part of his life he occasionally spoke in our religious
 meetings to the comfort and satisfaction of the right-minded.]
 
+[.small-break]
+'''
+
 In the winter of 1836-7,
 I visited Friends (with a certificate) in several
 of the eastern counties of the State of New York,
@@ -320,7 +323,7 @@ Oh, how often have I thought of you! and how painfully have
 your forebodings of mischief among us been realized!
 Alas, the enemy of all good has prevailed to no very limited extent;
 and the insidious spirit that showed itself last year, appears now to be mighty indeed,
-speaking great swelling word, and, for the most part, has had the preeminence,
+speaking great swelling words, and, for the most part, has had the preeminence,
 both in meetings for worship and discipline.
 
 This being permitted, has, however, opened the eyes of many,
@@ -631,7 +634,7 @@ In our last Morning Meeting, the said Friend spoke near the close,
 in answer to what some of us had ventured to assert as giving us alarm.
 I gathered from E. B. that we need not, in his opinion, yield to so much uneasiness,
 recommended charity, brotherly love, etc.,
-and to "`beware lest any root of bitterness springing up "`should trouble us.
+and to "`beware lest any root of bitterness springing up`" should trouble us.
 This did not tend to the relief of some of us, but the contrary.
 I thought it savored of the same spirit which has for years been opposing
 itself to that which lays open our real condition as a people,
@@ -1192,7 +1195,7 @@ As surely as I believe the views, which we have ever held, to be according to Tr
 so do I believe, that many up and down are preparing to acknowledge and embrace them;
 and that these old-fashioned testimonies which are
 advocated in our early Friends`' books,
-will come to be admired and nought out, whether our people scout them or not.
+will come to be admired and sought out, whether our people sneer at them or not.
 
 Some of those who once were in esteem,
 have said Penington`'s writings had better be put into a heap and burned;
@@ -1274,12 +1277,12 @@ chapter on worship and ministry) that your sentiments,
 expressed in your "`Letters,`" are indeed true, or rather short of the whole truth.
 It is needful I should say, I protested in my feeble way,
 against the tendency of the whole chapter, telling the committee and the author,
-that the contrast was strong between that and Barclay`'s Apology.
+that the contrast was strong between that and Barclay`'s [.book-title]#Apology.#
 The Morning Meeting is, however,
 dissatisfied that works should be examined by a committee,
 so that I hope the rule will be altered next year.
 
-The above mentioned Friend +++[+++J.J. G.]
+The above mentioned Friend +++[+++J. J. G.]
 has been visiting families in our Quarterly Meeting for a long time at intervals,
 and especially giving lectures on religious subjects;
 which is a sort of new gift that has sprung up in these days,
@@ -2544,11 +2547,11 @@ and for the enjoyment of his presence, which shall be in us and with us.
 
 Edward Ash`'s book appears to some of us a specious and unsound thing,
 professing to stand up for our ancient Friends, but really lessening them.
-My brother Hawlinson has opposed its large second edition in the Meeting for Sufferings,
+My brother Rawlinson has opposed its large second edition in the Meeting for Sufferings,
 and, in consequence, had an interview with E. A. upon it; but it was a very painful time,
 only showing more clearly his unsoundness.
 The Morning Meeting approved of the first edition.
-"`Well, dear friend,
+Well, dear friend,
 do breathe for the help of the poor little panting ones as you are enabled; and I shall,
 I know, think and feel greatly for you across the ocean, under coming circumstances.
 
@@ -3105,7 +3108,7 @@ My dear husband was not at our last Yearly Meeting.
 I was; and as far as I am capable of judging,
 the Friends influential in our men`'s meeting for discipline,
 if they are to be judged by their doings, are not of the sentiments taught by George Fox,
-and embodied in the apology of Robert Barclay.
+and embodied in the [.book-title]#Apology# of Robert Barclay.
 Many, especially among the women are faithful in the principles believed in by early Friends,
 but they cannot make head against the others;
 this was evident in the sittings of the Select Yearly Meeting, had it not been so,
@@ -3120,7 +3123,7 @@ Many that have left have declared they were the first
 things that led them to these new views,
 it was so declared publicly by several of them to the London Committee.
 
-Dear John 1 have just read yours carefully over, and I do see clearly,
+Dear John I have just read yours carefully over, and I do see clearly,
 and unite in your views respecting the writings of the Friend alluded to,
 so does my husband; and we are the same we ever were; and according to our ability,
 labor to uphold the Truth, and I cleared my mind in our last Select Yearly Meeting; but,
@@ -3258,7 +3261,7 @@ And not only so, did they not bear testimony to the true form,
 and succeed in setting it up and establishing it?
 
 When I look at these things,
-when I consider the length and the breadth of the ground which our principles "`cover,
+when I consider the length and the breadth of the ground which our principles cover,
 and compare it with our practice, my soul is humbled within me;
 it is saddened and afflicted within me; and I am ready to say not only,
 "`by whom shall the seed of Jacob arise,`" but, who shall be able to stand?
@@ -3346,7 +3349,7 @@ which came under my notice, the author having deputed me to attend to it;
 I do not hesitate to say,
 the reasons and views of the committee of the Morning
 Meeting were inconsistent with our ancient principles,
-and directly contrary to R B.`'s apology.
+and directly contrary to R B.`'s [.book-title]#Apology.#
 
 It is a small committee of this meeting to whom is
 referred the close examination of MSS.+++;+++
@@ -3571,10 +3574,9 @@ cleave to him!`" "`Love him with all your heart!`" with "`Hallelujah!`" very
 often repeated as a constant and melodious song of praise for hours together.
 O, I shall never forget the sweet feeling, about an hour before the close; dear Mary,
 after giving him some nourishment,
-asked him if he knew her--he replied with a sweet smile, "`Yes,
-my Mary;`" had he any pain?`"
-No, not any;`" was he happy?`"
-Yes, very;`" and then laid down,
+asked him if he knew her--he replied with a sweet smile, "`Yes, my Mary;`"
+had he any pain? "`No, not any;`" was he happy?
+"`Yes, very;`" and then laid down,
 and quietly drew his breath shorter and shorter and seemed to fall asleep,
 so sweet was the close.
 
@@ -3623,7 +3625,7 @@ in different degrees of mixture) contained in J. J. G.`'s private book;
 as their reasons for objecting to it were in coincidence with that book.
 But I have now the satisfaction to tell you that in consequence
 of dear D. Wheeler`'s strong encouragement and stimulus
-to S. R.. he is induced to think of publishing his tract,
+to S. R. he is induced to think of publishing his tract,
 notwithstanding;
 as he has desired to have a conference with that committee
 to defend his own and our early Friends`' views,
@@ -4580,7 +4582,7 @@ and causing the arrows of the archers to fall harmless at his feet;
 may his name be praised!
 The committee^
 footnote:[A committee of Rhode Island`'s Select Quarterly Meeting,
-for a particular account of which see J.W.`'s Narrative and Exposition, page 36,
+for a particular account of which see J.W.`'s [.book-title]#Narrative and Exposition,# page 36,
 as well as a synopsis of the same in the present volume.]
 have not been lacking, heretofore, in apparent endeavors to provoke and to aggravate,
 in order, as I believe, to obtain from me some unguarded act or expression,
