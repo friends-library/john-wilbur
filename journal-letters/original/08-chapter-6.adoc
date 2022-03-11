@@ -408,7 +408,7 @@ Yes, '`wisdom hath builded her house,
 she hath hewn out her pillars.`' Our beloved brother could not have been one
 of these any other way than by entire passiveness to the power working in him,
 both to will and to do of the good pleasure of Him whose understanding is infinite, and,
-therefore, not to be comprehended by that which is finite It is my humble trust,
+therefore, not to be comprehended by that which is finite. It is my humble trust,
 that the great Head of the church will yet separate more manifestly,
 '`that which doth serve him,
 from that which serveth him not,`' even '`the precious from the vile,`' to his own glory,--bringing
@@ -879,7 +879,7 @@ John Wilbur.
 From Lydia A. Barclay to J. W.
 
 [.signed-section-context-open]
-Reigate, 24th of 6th mo.. 1842.
+Reigate, 24th of 6th mo., 1842.
 
 [.salutation]
 My Dear Friend,
@@ -1073,7 +1073,7 @@ He will not give his glory to another nor his praise to graven images,
 the work of men`'s hands.
 He will in his own good time deliver his oppressed seed,
 will cause Jacob to rejoice and Israel to be glad.
-Then fear not worm Jacob--who art thou that thou
+Then fear not, worm Jacob--who art thou that thou
 should be afraid of a man that shall die,
 and of the son of man that shall be made as grass.
 He who "`hath his way in the whirlwind and in the storm,
@@ -1159,7 +1159,7 @@ that his pure redeemed spirit rests in the arms of everlasting mercy,
 wipes away the tear,
 and brings over the tribulated spirit the feeling of thanksgiving and praise.
 Many times whilst writing this a saying of dear Daniel Wheeler has occurred to me,
-when on board the "`Henry Freeling,`" lying off the Mother Bank,
+when on board the _Henry Freeling,_ lying off the Mother Bank,
 and suffering from the same spirit; on an expression of sympathy from a friend, he said,
 "`The sun can shine in the inquisition;`" and thus, dear friend, thou hast found it.
 
@@ -1270,7 +1270,7 @@ From J. W. to Alice Knight.
 Hopkinton, 18th of 1st mo., 1843.
 
 Sometimes, my dear sister, in these seasons of deep depression and sore dismay,
-1 have been led almost to call in question the ground which, from time to time, had,
+I have been led almost to call in question the ground which, from time to time, had,
 as I apprehended, been assigned me; and almost sure I am, that,
 had it been made known to me some five years ago, the bonds which awaited such a course,
 my confidence would have failed me entirely.
@@ -1376,7 +1376,7 @@ John Wilbur.
 From Ezra Comfort to J. W.
 
 [.signed-section-context-open]
-Whitemarsh, 2nd mo., 17th, 1848.
+Whitemarsh, 2nd mo., 17th, 1843.
 
 [.salutation]
 Dearly Beloved Friend,
@@ -1755,7 +1755,7 @@ tending to glory, honor, immortality and eternal life!
 Letters have been recently received from England,
 from +++_______+++, +++_______+++, +++_______+++, etc.,
 but none so truly apostolic and full of life,
-as Ann Jones`'s but one from dear Ezra Comfort, some little time ago,
+as Ann Jones`'s; but one from dear Ezra Comfort, some little time ago,
 is truly of the first cast, in which, like that of A. J.,
 there is no compromise with evil, nor shadow of turning.
 Oh! for such fearless warriors as these,
@@ -1783,7 +1783,7 @@ John Wilbur.
 From Ezra Comfort to J. W.
 
 [.signed-section-context-open]
-Whitemarsh, 7th mo., 23rd, 1848.
+Whitemarsh, 7th mo., 23rd, 1843.
 
 [.salutation]
 Dear Friend,
@@ -1981,7 +1981,7 @@ Our dear friend David Cope did not, I believe, open his mouth in meeting,
 except once to discipline, but with ourselves,
 could say he felt the reward of peace for having
 been made willing to suffer for the name of Jesus.
-Thy countryman, L. M. Hoag was, a lodger in the house with us, and was very much caressed.
+Thy countryman, L. M. Hoag, was a lodger in the house with us, and was very much caressed.
 A woman who was not a member, but an attender of Friends`' meeting at Germantown,
 told one of the elders directly after meeting,
 she supposed Friends did not know what kind of a preacher
@@ -2152,7 +2152,7 @@ John Wilbur.
 From Ann Jones to J. W.
 
 [.signed-section-context-open]
-Stockport, 26th of 12th mo., 1848.
+Stockport, 26th of 12th mo., 1843.
 
 [.salutation]
 My Dear Aged and Afflicted Friend,
@@ -2660,7 +2660,7 @@ John Wilbur.
 From J. W. to Ezra Comfort.
 
 [.signed-section-context-open]
-Hopkinton, 8th mo., 22nd 1844.
+Hopkinton, 8th mo., 22nd, 1844.
 
 [.salutation]
 My Dear Friend,
@@ -3462,7 +3462,7 @@ It came to hand the day before I left home for our Yearly Meeting and I took it 
 and read a considerable portion of it while travelling,
 and it was a great comfort to me to find thereby,
 that thou and thy co-sufferers had been strengthened to undergo your trials,
-and unjust deprivations, in a good degree of that Christian spirit, which,
+and unjust deprivations, in a good degree of that Christian spirit, which
 alone can conquer without having cause of regret.
 The [.book-title]#Narrative# opens up such a continuous scene of persecution and injustice,
 as I should have thought it impossible for any members of our Society,
@@ -3675,7 +3675,10 @@ that will occasion its fall.
 Such, and many more are his irreconcilable inconsistencies.
 
 With much love to thee, thy family and all thy dear suffering friends as if named,
-I remain thy friend, Ezra Comfort.
+I remain thy friend,
+
+[.signed-section-signature]
+Ezra Comfort.
 
 [.letter-heading]
 From J. W. to Ezra Comfort.
@@ -4698,7 +4701,7 @@ then wilt thou receive thy blessed reward, and thy joy will be full,
 and no man will take thy crown, because thou hast labored and not fainted.
 
 So now, my dear brother, farewell,
-in the love of the gospel of our Lord Jesus Christ My dear wife sends her love to thee,
+in the love of the gospel of our Lord Jesus Christ. My dear wife sends her love to thee,
 and thy dear wife and family.
 James and Jane Moon also send their love to thee, and so would many more,
 did they know of this freedom.
@@ -5320,7 +5323,7 @@ And although it may be, as Gurney`'s books have gone through many editions,
 in different type, that the passages quoted may not compare in all his works alike,
 yet the extracts, by diligent search, will be found correct,
 and the sentiments will be found to be his verbatim.
-Gurney`'s defence entitled, Calumny Refuted,
+Gurney`'s defence entitled, [.book-title]#Calumny Refuted,#
 does not charge any one with incorrect quotations.
 
 Finally to conclude,
@@ -6124,7 +6127,7 @@ J+++.+++ Wilbur.
 From J. W. to Mary Davis.
 
 [.signed-section-context-open]
-Hopkinton, 6th mo., 27,1849.
+Hopkinton, 6th mo., 27th, 1849.
 
 [.salutation]
 My Dear Friend Mary Davis,
@@ -6417,7 +6420,7 @@ and a heart of willingness to be exercised therein, and in its service.
 And I do rejoice, my dear fellow-laborer,
 that a more undaunted spirit in the Lord`'s cause,
 is more and more being developed in Philadelphia and thereaway,
-and I am comforted in a hope that though the unflinching faithfulness of a few,
+and I am comforted in a hope that through the unflinching faithfulness of a few,
 the victory of truth over error will eventually be gained,
 to the honor of the Lord`'s great and ever worthy name!
 
